@@ -1,0 +1,17 @@
+[
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/sweti/",
+        "image": "images/social/linkedin.svg"
+    },
+    {
+        "name": "X",
+        "link": "https://x.com/sweti",
+        "image": "images/social/x-twitter.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/mediator.sweti",
+        "image": "images/social/facebook.svg"
+    }
+]

@@ -1,0 +1,16 @@
+/* override.css */
+/* --------------------------------------------
+   Benutzerdefinierte CSS-Anpassungen für das Projekt
+   Diese Datei wird nach _tachyons.css geladen.
+--------------------------------------------- */
+
+/* 
+  Stellt sicher, dass Buttons mit schwarzem Hintergrund
+  (bg-black) auch weißen Text bekommen, wenn keine
+  .white-Klasse im HTML gesetzt ist.
+*/
+form input[type="submit"].bg-black {
+  color: white !important;
+}
+
+/* Weitere Overrides können hier ergänzt werden... */

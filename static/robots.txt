@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+Disallow: /admin/
+Sitemap: https://mediator.beltschew.de/sitemap.xml
+

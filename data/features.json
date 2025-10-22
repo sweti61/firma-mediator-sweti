@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Systemische Beratung",
+    "description": "Struktur und Klarheit für komplexe Prozesse – mit Fokus auf Rollen, Entscheidungen und Kommunikation.",
+    "image": "images/features/icon_beratung.png"
+  },
+  {
+    "title": "Coaching",
+    "description": "Individuelle Begleitung bei Übergängen, Führungsverantwortung oder innerer Klärung – mit Ruhe und Präsenz.",
+    "image": "images/features/icon_coaching.png"
+  },
+  {
+    "title": "Mediation",
+    "description": "Allparteiliche Konfliktklärung – sachlich, respektvoll und lösungsorientiert für private und berufliche Spannungen.",
+    "image": "images/features/icon_mediation.png"
+  }
+]

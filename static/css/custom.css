@@ -1,0 +1,83 @@
+/* CSS für Akkordeon */
+
+details.accordion {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin: 1em 0;
+  padding: 0.5em;
+  background-color: #fdfdfd;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  font-size: 1rem; /* Schriftgröße des gesamten Akkordeons */
+}
+
+details.accordion[open] {
+  background-color: #f5f5f5;
+}
+
+details.accordion summary {
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  padding: 0.3em 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+details.accordion summary:hover {
+  color: #007acc;
+}
+
+details.accordion .accordion-content {
+  font-weight: normal;         /* normaler Text, nicht fett */
+  font-size: 0.95rem;          /* kleinere Schriftgröße */
+  color: #444;                 /* dunkles Grau für gute Lesbarkeit */
+  line-height: 1.5;
+  margin-top: 0.5em;
+  padding-left: 0.5em;
+}
+
+details.accordion summary {
+  text-align: left;      /* explizit linksbündig */
+  display: list-item;    /* für normales Marker-Verhalten */
+  padding: 0.3em 0;
+  font-weight: 600;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+/* Entferne das Standard-Dreieck */
+details.accordion summary {
+  list-style: none;               /* Dreieck entfernen */
+  text-align: left;
+  font-size: 1.1rem;
+  font-weight: 600;
+  position: relative;
+  padding-left: 1.5em;            /* Platz für das Symbol links */
+  cursor: pointer;
+}
+
+/* Symbol vor dem Titel – geschlossenes Akkordeon */
+details.accordion summary::before {
+  content: "+";                   /* geschlossener Zustand */
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  color: #444;
+}
+
+/* Symbol ändern, wenn geöffnet */
+details.accordion[open] summary::before {
+  content: "–";                   /* geöffnetes Akkordeon */
+}
+
+/* Bild im about */
+.mein-bild {
+  width: 400px;
+  border-radius: 10px;
+  margin: 1em auto;
+  display: block;
+  float: right;
+}
+

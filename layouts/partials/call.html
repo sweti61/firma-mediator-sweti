@@ -1,0 +1,37 @@
+{{/* 
+  Partial: call.html
+  Funktion: Darstellung von Kontaktdaten mit i18n-Unterstützung für Mehrsprachigkeit
+*/}}
+
+<div class="call">
+  <div class="call-box-top">
+
+    {{/* Wenn Telefonnummer vorhanden ist, anzeigen */}}
+    {{ if .site.Data.contact.phone }}
+      <div class="call-phone">
+        <strong>{{ i18n "contactPhoneLabel" }}</strong>
+        {{ .site.Data.contact.phone }}
+      </div>
+    {{ end }}
+
+    {{/* Wenn E-Mail-Adresse vorhanden ist, anzeigen */}}
+    {{ if .site.Data.contact.email }}
+      <div class="call-email">
+        <strong>{{ i18n "contactEmailLabel" }}</strong>
+        <a href="mailto:{{ .site.Data.contact.email }}">
+          {{ .site.Data.contact.email }}
+        </a>
+      </div>
+    {{ end }}
+
+  </div>
+
+  {{/* Optionaler Button mit Link – wird nur gezeigt, wenn .show_button = "true" */}}
+  {{ if eq .show_button "true" }}
+    <div class="call-box-bottom">
+      <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">
+        {{ i18n "contactButtonLabel" }}
+      </a>
+    </div>
+  {{ end }}
+</div>
