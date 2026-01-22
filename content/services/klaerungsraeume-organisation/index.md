@@ -65,6 +65,7 @@ KRO unterscheidet vier zentrale Gesprächsrahmen,
 die sich in Organisationen immer wieder zeigen.
 
 ### Entscheidungsraum (KRO-E)
+![Entscheidungsraum (KRO-E)](kro-e.png)
 
 **Entscheidungen werden tragfähig,  
 wenn ihr Rahmen klar ist.**
@@ -86,6 +87,8 @@ und trifft selbst keine Entscheidungen.
 ---
 
 ### Prozessklärungsraum (KRO-P)
+![Entscheidungsraum (KRO-P)](kro-p.png)
+
 
 **Prozessklarheit entlastet Zusammenarbeit.**
 
@@ -106,6 +109,7 @@ ersetzt jedoch keine Fachverantwortung.
 ---
 
 ### Konfliktraum (KRO-K)
+![Entscheidungsraum (KRO-K)](kro-k.png)
 
 **Konflikte brauchen Raum,  
 um arbeitsfähig zu werden.**
@@ -128,6 +132,7 @@ und erzwingt keine Einigung.
 ---
 
 ### Beziehungsraum (KRO-B)
+![Entscheidungsraum (KRO-B)](kro-b.png)
 
 **Zusammenarbeit wird tragfähig,  
 wenn sie bewusst besprochen wird.**
