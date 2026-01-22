@@ -47,9 +47,9 @@ Durch strukturierte Teamformate und Konfliktmoderation entstehen:
 
 ### 🧩 Passende Angebote für diese Zielgruppe
 
-- 🔗 [**Konfliktmoderation bei Veränderung & Reibung**](/angebote/konfliktmoderation-veraenderung)  
-- 🔗 [**Systemische Prozessberatung & Teamstrukturklärung**](/angebote/prozessberatung-organisation)  
-- 🔗 [**Klärungsgespräche & Beziehungsklärung**](/angebote/klaerungsgespraech)
+- 🔗 [**Konfliktmoderation bei Veränderung & Reibung**](/services/konfliktmoderation-veraenderung)  
+- 🔗 [**Systemische Prozessberatung & Teamstrukturklärung**](/services/prozessberatung-organisation)  
+- 🔗 [**Klärungsgespräche & Beziehungsklärung**](/services/klaerungsgespraeche)
 
 ### 📅 Nächster Schritt
 

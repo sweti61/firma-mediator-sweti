@@ -49,10 +49,10 @@ In Coaching- oder Beratungsformaten gewinnen Sie:
 
 ### 🧩 Passende Angebote für diese Zielgruppe
 
-- 🔗 [**Coaching für Führung & Verantwortung**](/angebote/coaching-fuer-fuehrung)  
-- 🔗 [**Systemische Prozessberatung & Teamstrukturklärung**](/angebote/prozessberatung-organisation)  
-- 🔗 [**Konfliktmoderation bei Veränderung & Reibung**](/angebote/konfliktmoderation-veraenderung)  
-- 🔗 [**Klärungsgespräche & Beziehungsklärung**](/angebote/klaerungsgespraeche)
+- 🔗 [**Coaching für Führung & Verantwortung**](/services/coaching-fuer-fuehrung)  
+- 🔗 [**Systemische Prozessberatung & Teamstrukturklärung**](/services/prozessberatung-organisation)  
+- 🔗 [**Konfliktmoderation bei Veränderung & Reibung**](/services/konfliktmoderation-veraenderung)  
+- 🔗 [**Klärungsgespräche & Beziehungsklärung**](/services/klaerungsgespraeche)
 
 ---
 

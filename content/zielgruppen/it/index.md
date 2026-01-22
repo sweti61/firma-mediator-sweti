@@ -47,9 +47,9 @@ Mit fundierter ITIL- und Projekterfahrung sowie systemischer Gesprächsführung 
 
 ### 🧩 Passende Angebote für diese Zielgruppe
 
-- 🔗 [**Mediation im IT-Umfeld**](/angebote/mediation-it-umfeld)  
-- 🔗 [**Konfliktmoderation bei Veränderung & Reibung**](/angebote/konfliktmoderation-veraenderung)  
-- 🔗 [**Systemische Prozessberatung & Teamstrukturklärung**](/angebote/prozessberatung-organisation)
+- 🔗 [**Mediation im IT-Umfeld**](/services/mediation-it-umfeld)  
+- 🔗 [**Konfliktmoderation bei Veränderung & Reibung**](/services/konfliktmoderation-veraenderung)  
+- 🔗 [**Systemische Prozessberatung & Teamstrukturklärung**](/services/prozessberatung-organisation)
 
 ---
 

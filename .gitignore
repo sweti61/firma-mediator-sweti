@@ -1,5 +1,58 @@
-/public/
-/resources/
-/node_modules/
+# =====================
+# Hugo Standard-Ausgaben
+# =====================
+
+# Build-Verzeichnis (generiert durch `hugo` oder `hugo server`)
+public/
+resources/
+hugo_stats.json
+
+# Beispiel-Website im Theme (wird nicht für die eigene Seite benötigt)
+themes/*/exampleSite/
+
+# =====================
+# Betriebssystem- & Systemdateien
+# =====================
+
 .DS_Store
 Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# =====================
+# IDEs & Editoren
+# =====================
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =====================
+# Logs & temporäre Dateien
+# =====================
+
+*.log
+*.tmp
+*.bak
+*.swp
+*.lock
+*.orig
+*.backup
+
+# =====================
+# NodeJS (wenn du z. B. PostCSS, Tailwind oder SCSS nutzt)
+# =====================
+
+node_modules/
+package-lock.json
+
+# =====================
+# Optional: Git-Backup-Dateien
+# =====================
+
+*.gz
+*.zip
+*.tar
+*.7z
+*.old

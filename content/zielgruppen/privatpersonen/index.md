@@ -49,8 +49,8 @@ In vertraulichen Einzel- oder Beziehungsgesprächen gewinnen Sie:
 
 ### 🧩 Passende Angebote für diese Zielgruppe
 
-- 🔗 [**Einzelcoaching bei Übergängen & Belastungen**](/angebote/einzelcoaching-uebergaenge)  
-- 🔗 [**Klärungsgespräche & Beziehungsklärung**](/angebote/klaerungsgespraeche)
+- 🔗 [**Einzelcoaching bei Übergängen & Belastungen**](/services/einzelcoaching-uebergaenge)  
+- 🔗 [**Klärungsgespräche & Beziehungsklärung**](/services/klaerungsgespraeche)
 
 ---
 
