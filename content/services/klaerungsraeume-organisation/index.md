@@ -1,7 +1,10 @@
 ---
 title: "Klärungsräume Organisation (KRO)"
+
 description: "Ein systemisches Format zur Klärung organisationstypischer Gespräche – durch klare Gesprächsrahmen statt vermischter Anliegen."
+
 summary: "KRO unterstützt Organisationen dabei, Gespräche so zu strukturieren, dass Entscheidungen, Prozesse, Konflikte und Zusammenarbeit arbeitsfähig besprochen werden können."
+
 slug: "klaerungsraeume-organisation"
 date: 2026-01-22
 keywords:
@@ -23,8 +26,6 @@ categories:
   - Formate
   - Angebote
 ---
-
-## Klärungsräume Organisation (KRO)
 
 **Viele Gespräche in Organisationen scheitern nicht an den Menschen.  
 Sondern am Rahmen.**
