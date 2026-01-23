@@ -27,7 +27,21 @@ Sie schätzen meine **sachliche Präsenz**, mein **Einfühlungsvermögen ohne Um
 ⚖️ Ich bin **kein juristischer Streitschlichter**.  
 Ich bin jemand, der Komplexität aushält, Dynamiken erkennt – und Menschen dabei unterstützt, **nachhaltige Lösungen zu entwickeln**, die zu ihnen passen.
 
-👉 [Jetzt kostenlosen Termin buchen](https://calendly.com/sweti-mediator)
+---
 
+## Nächster Schritt
+
+Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
+Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
+
+👉 [**Jetzt kostenlosen Termin buchen**](https://calendly.com/sweti-mediator)   
+📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 📍 *Dresden und Sachsen* | 💻 *Online europaweit möglich*
 
+---
+## Interne Links
+
+- [**Arbeitsweise**]({{<relref "/arbeitsweise">}})
+- [**Haltung**]({{<relref "/haltung">}})
+- [**Angebote & Formate**]({{<relref "/services">}})  
+- [**Kontakt**]({{<relref "/contact">}})
