@@ -29,7 +29,7 @@ tags:
 draft: false
 ---
 
-**Ein strukturierter Reflexionsrahmen zur Rollenklärung im Arbeitskontext**
+Ein strukturierter Reflexionsrahmen zur Rollenklärung im Arbeitskontext
 
 In komplexen Arbeitsumgebungen entstehen Belastungen selten durch einzelne Personen.  
 Sie entstehen dort, wo unterschiedliche Anforderungen gleichzeitig wirken und nicht klar voneinander unterschieden sind.
@@ -131,6 +131,8 @@ sondern durch **Struktur, Klarheit und bewusste Unterscheidung**.
 
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
 Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
+
+👉 Sie können ein Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/rollenklaerung-mre/) herunterladen
 
 👉 [**Terminbuchung auf Calendly**](https://calendly.com/sweti-mediator)   
 📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)

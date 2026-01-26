@@ -26,7 +26,7 @@ categories:
   - Angebote
 ---
 
-**Ein strukturierter Reflexionsraum für Führungskräfte im öffentlichen Dienst**
+Ein strukturierter Reflexionsraum für Führungskräfte im öffentlichen Dienst
 
 ## Ausgangslage
 Führungskräfte in der öffentlichen Verwaltung treffen Entscheidungen unter komplexen und oft widersprüchlichen Erwartungen.  

@@ -27,8 +27,8 @@ categories:
   - Angebote
 ---
 
-**Viele Gespräche in Organisationen scheitern nicht an den Menschen.  
-Sondern am Rahmen.**
+Viele Gespräche in Organisationen scheitern nicht an den Menschen.  
+Sondern am Rahmen.
 
 In Meetings, Workshops oder Abstimmungen werden häufig unterschiedliche Anliegen
 gleichzeitig verhandelt: Entscheidungen, Prozesse, Beziehungen und Konflikte.
@@ -210,6 +210,9 @@ um zu prüfen, ob KRO für Ihren Anlass passt.
 
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
 Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
+
+👉 Sie können ein Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/klaerungsraum-orientierung/) herunterladen
+
 
 👉 [**Terminbuchung auf Calendly**](https://calendly.com/sweti-mediator)   
 📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
