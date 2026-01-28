@@ -125,6 +125,9 @@ sondern durch den **Rahmen selbst**.
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
 Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
 
+👉 Sie können ein Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/zwischen-entscheidung-und-verantwortung/) herunterladen   
+
+
 👉 [**Terminbuchung auf Calendly**](https://calendly.com/sweti-mediator)   
 📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 
@@ -132,8 +135,8 @@ Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgesp
 ## Interne Links
 
 - [**Profil & Hintergrund**]({{<relref "/about">}})   
-- [**Arbeitsweise**]({{<relref "/arbeitsweise">}})
-- [**Haltung**]({{<relref "/haltung">}})
-- [**Angebote & Formate**]({{<relref "/services">}})  
-- [**Kontakt**]({{<relref "/contact">}})
+- [**Arbeitsweise**]({{<relref "/arbeitsweise">}})   
+- [**Haltung**]({{<relref "/haltung">}})   
+- [**Angebote & Formate**]({{<relref "/services">}})   
+- [**Kontakt**]({{<relref "/contact">}})   
 
