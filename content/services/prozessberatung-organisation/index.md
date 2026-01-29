@@ -44,6 +44,8 @@ So können Teams ihre Strukturen mitgestalten – und Führungskräfte besser na
 - **Dauer:** Einzeltermin (z. B. Workshop) oder Begleitung über mehrere Wochen/Monate  
 - **Methode:** Systemische Prozessanalyse, Rollen- & Schnittstellenklärung, Visualisierung (BPMN, Whiteboard), Beteiligungsformate
 
+Ein strukturierter Denkrahmen für organisationale Klärung → [Klärungsräume Organisation]({{<relref "/services/klaerungsraeume-organisation/">}})
+
 ---
 
 {{< accordion title="🧩 Typische Zielgruppen" >}}

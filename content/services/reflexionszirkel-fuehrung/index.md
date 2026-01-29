@@ -120,6 +120,14 @@ sondern durch den **Rahmen selbst**.
 
 ---
 
+## Weiterführende Formate
+
+Für individuelle Vertiefung von Führungsfragen kann ein [Coaching für Führung & Verantwortung]({{<relref "/services/coaching-fuer-fuehrung/">}}) ergänzend sinnvoll sein.
+
+Wenn Führungsfragen mit strukturellen Themen oder Teamkonstellationen verbunden sind, kann eine [systemische Prozessberatung & Teamstrukturklärung]({{<relref "/services/prozessberatung-organisation/">}}) anschließen.
+
+---
+
 ## Nächster Schritt
 
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  

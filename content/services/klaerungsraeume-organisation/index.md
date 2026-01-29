@@ -206,6 +206,15 @@ um zu prüfen, ob KRO für Ihren Anlass passt.
 
 ---
 
+## Weiterführende Formate
+Wenn sich aus der organisationalen Klärung konkrete Spannungen oder Konflikte zeigen, kann eine [Konfliktmoderation bei Veränderung & Reibung]({{<relref "/services/konfliktmoderation-veraenderung/">}}) anschlussfähig sein.
+
+Wenn Rollen, Abläufe oder Zuständigkeiten strukturell neu sortiert werden müssen, bietet sich eine [systemische Prozessberatung & Teamstrukturklärung]({{<relref "/services/prozessberatung-organisation/">}}) an.
+
+In technisch geprägten Organisationen mit Spannungen an Schnittstellen kann eine [Mediation im IT-Umfeld]({{<relref "/services/mediation-it-umfeld/">}}) eine geeignete Vertiefung sein.
+
+---
+
 ## Nächster Schritt
 
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  

@@ -12,6 +12,8 @@ Veränderung ist nie einfach – aber sie lässt sich gestalten.
 Ob im privaten Übergang, in der Führung, im Team oder in komplexen Organisationen:  
 Ich biete Begleitung, die nicht vorgibt, sondern ermöglicht – mit ruhiger Präsenz, analytischem Blick und systemischem Verständnis.
 
-Weitere angebote für Provatpersonen finden sie [hier](https://mediator.sweti.de/angebote/)
+Ergänzend zu den einzelnen Angeboten arbeite ich mit klaren Reflexions- und Klärungsformaten (z. B. [KRO]({{<relref "/services/klaerungsraeume-organisation/">}}), [MRE]({{<relref "/services/mensch-rolle-erwartungen-mre/">}}), [Reflexionszirkel Führung]({{<relref "/services/reflexionszirkel-fuehrung/">}})), die helfen, Anliegen einzuordnen und passende Vorgehensweisen zu wählen.
+
+Weitere Formate und Angebote für Privatpersonen sind [hier](https://mediator.sweti.de/angebote/) zusammengefasst.
 
 Wählen Sie das passende Format für Ihre Situation – individuell, professionell und verbindlich.

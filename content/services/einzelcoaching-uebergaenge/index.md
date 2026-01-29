@@ -43,6 +43,8 @@ Oft genügt es, einen geschützten Raum zu haben, in dem Sie sich sortieren kön
 - **Methode:** Systemisches Coaching, biografische Reflexion, Fragearbeit, Visualisierung bei Bedarf  
 - **Stil:** ruhig, präsent, strukturierend – ohne Ratschläge, aber mit Fokus auf Eigenklarheit
 
+Wenn innere Spannungen mit Rollenbildern und Erwartungen zusammenhängen → [MRE – Mensch · Rolle · Erwartungen]({{<relref "/services/mensch-rolle-erwartungen-mre/">}})
+
 ---
 
 {{< accordion title="🧩 Typische Zielgruppen" >}}

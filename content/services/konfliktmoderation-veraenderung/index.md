@@ -44,6 +44,8 @@ So entstehen neue Kooperationsbereitschaft, Rollenklarheit und Handlungssicherhe
 - **Dauer:** je nach Fallstruktur; meist 1–3 moderierte Termine à 90–120 Minuten  
 - **Methode:** Systemische Konfliktmoderation, strukturierte Gesprächsführung, Rollenklärung, Visualisierung bei Bedarf
 
+Konflikte entstehen oft aus ungeklärten Strukturen und Zuständigkeiten KRO → [Klärungsräume Organisation]({{<relref "/services/klaerungsraeume-organisation/">}})
+
 ---
 
 {{< accordion title="🧩 Typische Zielgruppen" >}}

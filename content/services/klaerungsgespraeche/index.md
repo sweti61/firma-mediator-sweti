@@ -36,12 +36,15 @@ Das Ziel ist keine Harmonie, sondern tragfähige Klärung und neue Orientierung.
 
 ---
 
-### 🛠️ Formate & Arbeitsweise
+### 🛠️ Formate & Arbeitsweise  
 
 - **Format:** Moderiertes Gespräch mit 2–4 Beteiligten, auf Wunsch auch mit Vorgesprächen  
 - **Ort:** in Präsenz (Dresden) oder online  
 - **Dauer:** 90–120 Minuten pro Sitzung, ggf. Folgetermine  
-- **Methode:** Systemische Gesprächsführung, Mediationsprinzipien, Allparteilichkeit, Visualisierung bei Bedarf
+- **Methode:** Systemische Gesprächsführung, Mediationsprinzipien, Allparteilichkeit, Visualisierung bei Bedarf   
+
+Wenn Spannungen auch durch Rollen- und Erwartungskonflikte geprägt sind → [MRE – Mensch · Rolle · Erwartungen]({{<relref "/services/mensch-rolle-erwartungen-mre/">}})
+
 
 ---
 

@@ -43,6 +43,8 @@ Führung wird so nicht leichter, aber tragfähiger – weil Sie bewusster entsch
 - **Methode:** Systemische Reflexionsarbeit, Rollenmodellierung, Entscheidungs- & Auftragsklärung  
 - **Stil:** strukturiert, klar, diskret – mit Wertschätzung für Dilemmata und Ambivalenz
 
+Für Fragen von Führung, Verantwortung und kollektiver Reflexion → [Reflexionszirkel Führung]({{<relref "/services/reflexionszirkel-fuehrung/">}})
+
 ---
 
 {{< accordion title="🧩 Typische Zielgruppen" >}}

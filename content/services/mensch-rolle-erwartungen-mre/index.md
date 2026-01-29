@@ -118,6 +118,16 @@ der insbesondere in behördlichen Kontexten als sicher und anschlussfähig erleb
 
 ---
 
+## Weiterführende Formate
+
+Wenn es um persönliche Orientierung in Übergängen oder belastenden Lebenssituationen geht, kann ein [Einzelcoaching bei Übergängen & Belastungen]({{<relref "/services/einzelcoaching-uebergaenge/">}}) sinnvoll anschließen.
+
+Bei Fragen zur eigenen Führungsrolle und Verantwortung bietet sich ein [Coaching für Führung & Verantwortung]({{<relref "/services/coaching-fuer-fuehrung/">}}) an.
+
+Wenn Rollen- und Erwartungskonflikte Beziehungen oder Zusammenarbeit belasten, kann ein [Klärungsgespräch zur Beziehungsklärung]({{<relref "/services/klaerungsgespraeche/">}}) hilfreich sein.
+
+---
+
 ## Fazit
 
 Das MRE-Format ist ein **niedrigschwelliges, klar begrenztes Angebot**,  
@@ -125,6 +135,7 @@ das Orientierung in komplexen Arbeitssituationen ermöglicht.
 
 Rollenklärung entsteht hier nicht durch Intervention,  
 sondern durch **Struktur, Klarheit und bewusste Unterscheidung**.
+
 ---
 
 ## Nächster Schritt

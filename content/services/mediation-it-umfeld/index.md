@@ -43,6 +43,8 @@ Durch strukturierte Mediation entstehen neue Gesprächsverbindungen, geklärte R
 - **Dauer:** 1–3 Sitzungen je nach Situation, auf Wunsch mit Vorgesprächen  
 - **Methode:** Systemische Mediation, Rollenklärung, Visualisierung techniknaher Zusammenhänge, Verbindung von Fachsprache und Beziehungsebene
 
+Zur Einordnung von Rollen, Schnittstellen und organisationalen Spannungen → [Klärungsräume Organisation]({{<relref "/services/klaerungsraeume-organisation/">}})
+
 ---
 
 {{< accordion title="🧩 Typische Zielgruppen" >}}
