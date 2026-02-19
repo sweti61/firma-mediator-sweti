@@ -7,6 +7,8 @@ keywords: ["IT-Mediation", "ITIL Konflikte", "DevOps Spannungen", "SLAs", "Chang
 categories: ["Angebote"]
 tags: ["IT", "Mediation", "Konflikt", "DevOps", "Service Management"]
 date: 2025-06-21
+slug: "mediation-it-umfeld"
+url: "/services/mediation-it-umfeld/"
 featured: true
 draft: false
 weight: 6
@@ -45,7 +47,7 @@ Durch strukturierte Mediation entstehen neue Gesprächsverbindungen, geklärte R
 
 Zur Einordnung von Rollen, Schnittstellen und organisationalen Spannungen → [Klärungsräume Organisation]({{<relref "/services/klaerungsraeume-organisation/">}})
 
----
+Fachartikel, Impulse und Fallbeispiele zur Konfliktklärung, Prozessmoderation und systemischen Mediation im Umfeld von IT-Dienstleistern, Technologieunternehmen und DevOps-Teams finden Sie in meinen {{< extlink "https://mediator.sweti.de/tags/it-dienstleister/" >}}Mediationsblog{{< /extlink >}}.
 
 {{< accordion title="🧩 Typische Zielgruppen" >}}
 

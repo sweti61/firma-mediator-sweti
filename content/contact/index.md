@@ -47,7 +47,7 @@ Mediator Sweti
 📍 Bünau Str. 52, 01159 Dresden  
 📧 [mediator@sweti.de](mailto:mediator@sweti.de)  
 📞 0163 803 5634 | ☎️ 0351 422 4716  
-🌐 [www.mediator.sweti.de](https://www.mediator.sweti.de)
+🌐 [mediator.sweti.de](https://mediator.sweti.de)
 
 ---
 
