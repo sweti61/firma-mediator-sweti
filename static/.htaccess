@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# www → ohne www (301 permanent)
+RewriteCond %{HTTP_HOST} ^www\.beltschew\.de [NC]
+RewriteRule ^(.*)$ https://beltschew.de/$1 [R=301,L]
+
+# HTTP → HTTPS erzwingen
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://beltschew.de/$1 [R=301,L]

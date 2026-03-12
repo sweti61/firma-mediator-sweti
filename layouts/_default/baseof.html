@@ -10,7 +10,7 @@
 
   {{ partial "google-fonts.html" . }}
 
-  <!-- 🔧 Haupt-CSS des Themes (aus scss/style.scss) -->
+  <!-- Haupt-CSS des Themes -->
   {{ $css_options := dict "targetPath" "css/style.css" "enableSourceMap" (not hugo.IsProduction) }}
   {{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS $css_options }}
   {{ if hugo.IsProduction }}
@@ -18,24 +18,50 @@
   {{ end }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
-  <!-- ✅ Eigene CSS-Datei -->
+  <!-- Eigene CSS-Dateien -->
   <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
   <link rel="stylesheet" href="/css/_tachyons.css">
   <link rel="stylesheet" href="/css/override.css">
 
   {{ block "header_css" . }}{{ end }}
 
-  <!-- 🔧 Metadaten für SEO / Social Media -->
   {{ block "meta_tags" . }}
-    {{ with .Params.description }}<meta name="description" content="{{ . }}"/>{{ end }}
-    <meta property="og:title" content="{{ .Params.meta_title | default .Title }}"/>
-    <meta property="og:type" content="website"/>
+    {{/* Description: Front Matter > Site-Default */}}
+    {{ $desc := .Params.description | default .Site.Params.description }}
+    {{ with $desc }}<meta name="description" content="{{ . }}"/>{{ end }}
+
+    {{/* Canonical — verhindert Duplikat-Fehler in GSC */}}
+    <link rel="canonical" href="{{ .Permalink }}"/>
+
+    {{/* Robots */}}
+    {{ if .Params.noindex }}
+      <meta name="robots" content="noindex, follow"/>
+    {{ else }}
+      <meta name="robots" content="index, follow"/>
+    {{ end }}
+
+    {{/* Open Graph */}}
+    {{ $title := .Params.meta_title | default .Title }}
+    <meta property="og:title" content="{{ $title }}"/>
+    {{ if .IsHome }}
+      <meta property="og:type" content="website"/>
+    {{ else }}
+      <meta property="og:type" content="article"/>
+    {{ end }}
     <meta property="og:url" content="{{ .Permalink }}"/>
-    {{ with .Params.image | default .Site.Params.seo.meta_og_image }}<meta property="og:image" content="{{ . | absURL }}"/>{{ end }}
-    {{ with .Params.description }}<meta property="og:description" content="{{ . }}"/>{{ end }}
+    {{ with .Params.image | default .Site.Params.seo.meta_og_image }}
+      <meta property="og:image" content="{{ . | absURL }}"/>
+    {{ end }}
+    {{ with $desc }}<meta property="og:description" content="{{ . }}"/>{{ end }}
+
+    {{/* Twitter */}}
     <meta name="twitter:card" content="summary"/>
-    {{ with .Site.Params.seo.meta_twitter_site }}<meta name="twitter:site" content="{{ . }}"/>{{ end }}
-    {{ with .Site.Params.seo.meta_twitter_creator }}<meta name="twitter:creator" content="{{ . }}"/>{{ end }}
+    {{ with .Site.Params.seo.meta_twitter_site }}
+      <meta name="twitter:site" content="{{ . }}"/>
+    {{ end }}
+    {{ with .Site.Params.seo.meta_twitter_creator }}
+      <meta name="twitter:creator" content="{{ . }}"/>
+    {{ end }}
   {{ end }}
 
 </head>
@@ -52,7 +78,7 @@
   {{ partial "footer.html" . }}
   {{ partial "sub-footer.html" . }}
 
-  <!-- 🔧 Haupt-JavaScript -->
+  <!-- Haupt-JavaScript -->
   {{ $scripts := resources.Get "js/scripts.js" }}
   {{ block "footer_js" . }}{{ end }}
   {{ if hugo.IsProduction }}
@@ -60,7 +86,7 @@
   {{ end }}
   <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
 
-  <!-- 🔧 Optional: Google-Tracking -->
+  <!-- Google-Tracking -->
   {{ partial "google-tag-manager.html" . }}
   {{ partial "google-analytics.html" . }}
 </body>

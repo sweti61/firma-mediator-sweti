@@ -1,4 +1,8 @@
-baseURL = "/"
+baseURL = "https://beltschew.de/"
+canonifyURLs = false
+relativeURLs = false
+
+enableRobotsTXT = false  # manuell gepflegte robots.txt behalten
 
 themesDir = "themes"
 theme = "hugo-serif-theme"
@@ -6,7 +10,13 @@ theme = "hugo-serif-theme"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 
-title = "Mediator Sweti – Systemische Mediation & Beratung in Dresden"
+title = "Beltschew – Systemische Prozessberatung & Konfliktklärung für Organisationen in Dresden"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.7
+  filename = "sitemap.xml"
+
 
 [markup]
   [markup.goldmark]
@@ -20,6 +30,9 @@ title = "Mediator Sweti – Systemische Mediation & Beratung in Dresden"
     min = "0.55.0"
 
 [params]
+  description = "Systemische Prozessberatung und Konfliktklärung für Organisationen, KMU und Führungskräfte in Dresden. Zertifizierter Mediator und systemischer Berater."
+  author = "Dr. Swetoslaw Beltschew"
+	
   # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
   #google_analytics_id = "G-N7Q4WNYD8S"
   google_tag_manager_id = "GTM-M3H7VWVB"
