@@ -7,27 +7,20 @@ summary: "KRO unterstützt Organisationen dabei, Gespräche so zu strukturieren,
 
 slug: "klaerungsraeume-organisation"
 date: 2026-01-22
+lastmod: 2026-05-06
 keywords:
-  - Klärungsräume Organisation
-  - KRO
-  - systemische Organisationsberatung
-  - Moderation
-  - Entscheidungsfindung
-  - Prozessklärung
-  - Konfliktbearbeitung
-  - Zusammenarbeit
-tags:
-  - Organisation
-  - Führung
-  - HR
-  - OE
-  - Kommunikation
-categories:
-  - Formate
-  - Angebote
+  - "Klärungsräume Organisation"
+  - "KRO"
+  - "systemische Organisationsberatung"
+  - "Moderation"
+  - "Entscheidungsfindung"
+  - "Prozessklärung"
+  - "Konfliktbearbeitung"
+  - "Zusammenarbeit"
+
 ---
 
-Viele Gespräche in Organisationen scheitern nicht an den Menschen.  
+Viele Gespräche in Organisationen scheitern nicht an den Menschen.
 Sondern am Rahmen.
 
 In Meetings, Workshops oder Abstimmungen werden häufig unterschiedliche Anliegen
@@ -55,7 +48,7 @@ Pro Termin wird **ein** Gesprächsrahmen gewählt.
 Andere Themen bleiben sichtbar,
 werden aber bewusst **nicht vermischt**.
 
-**KRO klärt keine Organisationen.  
+**KRO klärt keine Organisationen.
 KRO klärt Gespräche.**
 
 ---
@@ -68,7 +61,7 @@ die sich in Organisationen immer wieder zeigen.
 ### Entscheidungsraum (KRO-E)
 ![Entscheidungsraum (KRO-E)](kro-e.png)
 
-**Entscheidungen werden tragfähig,  
+**Entscheidungen werden tragfähig,
 wenn ihr Rahmen klar ist.**
 
 Der Entscheidungsraum wird genutzt,
@@ -88,8 +81,7 @@ und trifft selbst keine Entscheidungen.
 ---
 
 ### Prozessklärungsraum (KRO-P)
-![Entscheidungsraum (KRO-P)](kro-p.png)
-
+![Prozessklärungsraum (KRO-P)](kro-p.png)
 
 **Prozessklarheit entlastet Zusammenarbeit.**
 
@@ -110,9 +102,9 @@ ersetzt jedoch keine Fachverantwortung.
 ---
 
 ### Konfliktraum (KRO-K)
-![Entscheidungsraum (KRO-K)](kro-k.png)
+![Konfliktraum (KRO-K)](kro-k.png)
 
-**Konflikte brauchen Raum,  
+**Konflikte brauchen Raum,
 um arbeitsfähig zu werden.**
 
 Der Konfliktraum wird genutzt,
@@ -133,9 +125,9 @@ und erzwingt keine Einigung.
 ---
 
 ### Beziehungsraum (KRO-B)
-![Entscheidungsraum (KRO-B)](kro-b.png)
+![Beziehungsraum (KRO-B)](kro-b.png)
 
-**Zusammenarbeit wird tragfähig,  
+**Zusammenarbeit wird tragfähig,
 wenn sie bewusst besprochen wird.**
 
 Der Beziehungsraum dient der Reflexion von Zusammenarbeit,
@@ -170,7 +162,7 @@ Die Moderation:
 - ersetzt keine Führung
 - löst keine Konflikte stellvertretend
 
-**Die Moderation hält den Rahmen –  
+**Die Moderation hält den Rahmen –
 das System entscheidet selbst.**
 
 ---
@@ -186,7 +178,7 @@ Dabei werden geklärt:
 - der Auftrag als Gesprächsfunktion
 - Rahmenbedingungen und Rolle der Moderation
 
-**Ein guter Einstieg entscheidet darüber,  
+**Ein guter Einstieg entscheidet darüber,
 ob Klärung möglich wird.**
 
 ---
@@ -206,31 +198,32 @@ um zu prüfen, ob KRO für Ihren Anlass passt.
 
 ---
 
-## Weiterführende Formate
-Wenn sich aus der organisationalen Klärung konkrete Spannungen oder Konflikte zeigen, kann eine [Konfliktmoderation bei Veränderung & Reibung]({{<relref "/services/konfliktmoderation-veraenderung/">}}) anschlussfähig sein.
+## Einordnung im Angebotsgefüge
 
-Wenn Rollen, Abläufe oder Zuständigkeiten strukturell neu sortiert werden müssen, bietet sich eine [systemische Prozessberatung & Teamstrukturklärung]({{<relref "/services/prozessberatung-organisation/">}}) an.
+KRO ist ein methodisches Werkzeug, das in zwei Kontexten zum Einsatz kommt:
 
-In technisch geprägten Organisationen mit Spannungen an Schnittstellen kann eine [Mediation im IT-Umfeld]({{<relref "/services/mediation-it-umfeld/">}}) eine geeignete Vertiefung sein.
+- **Als eigenständiges Moderationsformat** für klar abgegrenzte Gesprächsanlässe
+- **Als Bestandteil einer [Konfliktberatung](/services/konfliktberatung-verwaltung-sachsen/)** für komplexere Konfliktlagen, in denen mehrere Klärungsräume nacheinander oder parallel benötigt werden
+
+Wenn aus einer organisationalen Klärung konkrete Spannungen oder Konflikte zwischen einzelnen Beteiligten sichtbar werden, kann eine [Mediation](/services/mediation-verwaltung-sachsen/) anschlussfähig sein. In technisch geprägten Organisationen mit Spannungen an Schnittstellen kann eine [Mediation im IT-Umfeld](/services/mediation-it-umfeld/) eine geeignete Vertiefung sein.
 
 ---
 
 ## Nächster Schritt
 
-Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
-Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
+Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:
+Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenfreies Orientierungsgespräch.
 
-👉 Sie können ein Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/klaerungsraum-orientierung/) herunterladen
+👉 Sie können einen Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/klaerungsraum-orientierung/) herunterladen
 
-
-👉 [**Terminbuchung auf Calendly**](https://calendly.com/sweti-mediator)   
+👉 [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)
 📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 
 ---
 ## Interne Links
 
-- [**Profil & Hintergrund**]({{<relref "/about">}})   
+- [**Profil & Hintergrund**]({{<relref "/about">}})
 - [**Arbeitsweise**]({{<relref "/arbeitsweise">}})
 - [**Haltung**]({{<relref "/haltung">}})
-- [**Angebote & Formate**]({{<relref "/services">}})  
+- [**Angebote & Formate**]({{<relref "/services">}})
 - [**Kontakt**]({{<relref "/contact">}})

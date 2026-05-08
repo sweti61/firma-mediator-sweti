@@ -1,40 +1,33 @@
 ---
 title: "Mensch – Rolle – Erwartungen (MRE)"
 
-summary: "Das MRE-Format ist ein strukturierter Reflexionsrahmen zur Rollenklärung im Arbeitskontext, insbesondere in der öffentlichen Verwaltung."
+summary: "Das MRE-Format ist ein strukturierter Reflexionsrahmen zur Rollenklärung im Arbeitskontext, insbesondere in kommunalen Verwaltungen, kommunalen IT-Dienstleistern und vergleichbaren Organisationen."
 
 description: "Strukturierte Rollenklärung im Arbeitskontext: Das MRE-Format schafft Orientierung durch die Unterscheidung von Mensch, Rolle und Erwartungen – ohne Bewertung oder Entscheidung."
 
 slug: "mensch-rolle-erwartungen-mre"
 date: 2026-01-23
+lastmod: 2026-05-06
 
 keywords:
-  - Rollenklärung
-  - Arbeitskontext
-  - Öffentliche Verwaltung
-  - Organisation
-  - Führung
-  - Erwartungen
-  - Systemische Beratung
-  - MRE
-categories:
-  - Formate
-  - Angebote
-tags:
-  - MRE
-  - Rollenklärung
-  - Organisation
-  - Verwaltung
-  - Systemik
+  - "Rollenklärung"
+  - "Arbeitskontext"
+  - "Kommunale Verwaltung"
+  - "Organisation"
+  - "Führung"
+  - "Erwartungen"
+  - "Systemische Beratung"
+  - "MRE"
+
 draft: false
 ---
 
 Ein strukturierter Reflexionsrahmen zur Rollenklärung im Arbeitskontext
 
-In komplexen Arbeitsumgebungen entstehen Belastungen selten durch einzelne Personen.  
+In komplexen Arbeitsumgebungen entstehen Belastungen selten durch einzelne Personen.
 Sie entstehen dort, wo unterschiedliche Anforderungen gleichzeitig wirken und nicht klar voneinander unterschieden sind.
 
-Gerade in der öffentlichen Verwaltung zeigen sich wiederkehrende Spannungsfelder:  
+Gerade in kommunalen Verwaltungen, kommunalen IT-Dienstleistern und vergleichbaren Organisationen zeigen sich wiederkehrende Spannungsfelder:
 unklare Rollen, widersprüchliche Erwartungen, Reibung an Schnittstellen und Unsicherheit in der Aufgabenwahrnehmung.
 
 Das MRE-Format setzt genau hier an.
@@ -43,21 +36,21 @@ Das MRE-Format setzt genau hier an.
 
 ## Ausgangslage
 
-Digitalisierung, Projektarbeit, Linienverantwortung und politische Steuerung führen zu einer Verdichtung von Aufgaben und Erwartungen.  
+Digitalisierung, Projektarbeit, Linienverantwortung und politische Steuerung führen zu einer Verdichtung von Aufgaben und Erwartungen.
 Mitarbeitende, Referent:innen und Führungskräfte bewegen sich häufig in mehreren Rollen gleichzeitig – bei begrenzten zeitlichen und strukturellen Ressourcen.
 
-Viele dieser Spannungen sind strukturell bedingt.  
+Viele dieser Spannungen sind strukturell bedingt.
 Sie lassen sich nicht durch mehr Gespräche oder persönliche Klärung allein auflösen.
 
 ---
 
 ## Ziel des Formats
 
-Das MRE-Format schafft einen **geschützten, klar begrenzten Reflexionsraum**,  
+Das MRE-Format schafft einen **geschützten, klar begrenzten Reflexionsraum**,
 in dem Rollen und Erwartungen sortiert werden können.
 
-Ziel ist nicht die Entwicklung von Lösungen oder Entscheidungen,  
-sondern Orientierung, Entlastung und eine realistische Einordnung von Verantwortung  
+Ziel ist nicht die Entwicklung von Lösungen oder Entscheidungen,
+sondern Orientierung, Entlastung und eine realistische Einordnung von Verantwortung
 im bestehenden organisatorischen Rahmen.
 
 ---
@@ -82,15 +75,15 @@ Die Trennung dieser Ebenen ermöglicht Klarheit, ohne zu bewerten oder zu person
 ## Formate
 
 ### 1:1-Rollenreflexion
-Strukturierte Gespräche zur individuellen Rollenklärung  
+Strukturierte Gespräche zur individuellen Rollenklärung
 für Referent:innen, Projektleitende und Fachverantwortliche.
 
 ### Reflexionszirkel
-Kleingruppenformate mit 4–6 Teilnehmenden  
+Kleingruppenformate mit 4–6 Teilnehmenden
 zur gemeinsamen Klärung von Rollen, Erwartungen und Handlungsspielräumen.
 
 ### Team- und Bereichsformate
-Halbtägige Formate zur Rollen- und Schnittstellenklärung  
+Halbtägige Formate zur Rollen- und Schnittstellenklärung
 in bestehenden Arbeitszusammenhängen.
 
 ---
@@ -102,8 +95,8 @@ Das MRE-Format:
 - greift nicht in Entscheidungen ein,
 - bewertet keine Personen oder Leistungen.
 
-Es ergänzt bestehende Strukturen durch einen Reflexionsraum,  
-der insbesondere in behördlichen Kontexten als sicher und anschlussfähig erlebt wird.
+Es ergänzt bestehende Strukturen durch einen Reflexionsraum,
+der insbesondere in Verwaltungs- und IT-Kontexten als sicher und anschlussfähig erlebt wird.
 
 ---
 
@@ -118,41 +111,42 @@ der insbesondere in behördlichen Kontexten als sicher und anschlussfähig erleb
 
 ---
 
-## Weiterführende Formate
+## Einordnung im Angebotsgefüge
 
-Wenn es um persönliche Orientierung in Übergängen oder belastenden Lebenssituationen geht, kann ein [Einzelcoaching bei Übergängen & Belastungen]({{<relref "/services/einzelcoaching-uebergaenge/">}}) sinnvoll anschließen.
+MRE ist ein methodisches Werkzeug, das in zwei Kontexten zum Einsatz kommt:
 
-Bei Fragen zur eigenen Führungsrolle und Verantwortung bietet sich ein [Coaching für Führung & Verantwortung]({{<relref "/services/coaching-fuer-fuehrung/">}}) an.
+- **Als eigenständiges Reflexionsformat** für Rollen- und Erwartungsklärung
+- **Als Bestandteil einer [Konfliktberatung](/services/konfliktberatung-verwaltung-sachsen/)**, wenn Rollenfragen zentraler Teil eines komplexeren Konfliktsystems sind
 
-Wenn Rollen- und Erwartungskonflikte Beziehungen oder Zusammenarbeit belasten, kann ein [Klärungsgespräch zur Beziehungsklärung]({{<relref "/services/klaerungsgespraeche/">}}) hilfreich sein.
+Wenn es um die persönliche Rolle in einer Konfliktlage geht, kann ein [Konflikt-Coaching](/services/konflikt-coaching-verwaltung-sachsen/) anschließen. Wenn aus der Rollenklärung konkrete Spannungen zwischen Beteiligten sichtbar werden, kann eine [Mediation](/services/mediation-verwaltung-sachsen/) anschlussfähig sein.
 
 ---
 
 ## Fazit
 
-Das MRE-Format ist ein **niedrigschwelliges, klar begrenztes Angebot**,  
+Das MRE-Format ist ein **niedrigschwelliges, klar begrenztes Angebot**,
 das Orientierung in komplexen Arbeitssituationen ermöglicht.
 
-Rollenklärung entsteht hier nicht durch Intervention,  
+Rollenklärung entsteht hier nicht durch Intervention,
 sondern durch **Struktur, Klarheit und bewusste Unterscheidung**.
 
 ---
 
 ## Nächster Schritt
 
-Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
-Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
+Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:
+Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenfreies Orientierungsgespräch.
 
-👉 Sie können ein Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/rollenklaerung-mre/) herunterladen
+👉 Sie können einen Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/rollenklaerung-mre/) herunterladen
 
-👉 [**Terminbuchung auf Calendly**](https://calendly.com/sweti-mediator)   
+👉 [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)
 📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 
 ---
 ## Interne Links
 
-- [**Profil & Hintergrund**]({{<relref "/about">}})   
+- [**Profil & Hintergrund**]({{<relref "/about">}})
 - [**Arbeitsweise**]({{<relref "/arbeitsweise">}})
 - [**Haltung**]({{<relref "/haltung">}})
-- [**Angebote & Formate**]({{<relref "/services">}})  
+- [**Angebote & Formate**]({{<relref "/services">}})
 - [**Kontakt**]({{<relref "/contact">}})

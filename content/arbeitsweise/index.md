@@ -13,12 +13,7 @@ keywords:
   - Führung
   - Organisationen
   - Übergangsphasen
-categories:
-  - Arbeitsweise
-tags:
-  - Systemische Haltung
-  - Prozessklarheit
-  - Resonanz
+
 ---
 
 {{< figure src="image.png" class="mein-bild" >}}
@@ -131,7 +126,7 @@ Wenn Sie prüfen möchten, ob diese Art der Zusammenarbeit für Ihre Situation p
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
 Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
 
-👉 [**Terminbuchung auf Calendly**](https://calendly.com/sweti-mediator)
+👉 [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)
 📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 
 ---

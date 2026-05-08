@@ -1,15 +1,23 @@
 ---
 title: "IT-Organisationen & Dienstleister in Dresden und Sachsen"
-slug: "it"
-description: "Mediation und systemische Prozessberatung für IT-Abteilungen und Dienstleister in Dresden – wenn Technik und Zusammenarbeit ineinandergreifen müssen."
-summary: "Wenn technische Abläufe auf menschliche Spannungen treffen, begleite ich IT-Teams und Fachbereiche mit systemischer Klarheit. Mediation, Moderation und Prozessberatung an der Schnittstelle von Struktur und Beziehung."
-keywords: ["IT Mediation Dresden", "Konfliktberatung IT-Organisationen Sachsen", "systemische Beratung IT Dresden", "Teamkonflikte IT lösen", "Change Management IT Sachsen"]
+slug: "it-unternehmen"
+description: "Mediation und systemische Prozessberatung für IT-Abteilungen, IT-Dienstleister und IT-Bereiche der Privatwirtschaft in Dresden und Sachsen – wenn Technik und Zusammenarbeit ineinandergreifen müssen."
+summary: "Wenn technische Abläufe auf menschliche Spannungen treffen, begleite ich IT-Teams und Fachbereiche mit systemischer Klarheit. Mediation, Moderation und Prozessberatung an der Schnittstelle von Struktur und Beziehung – im Mittelstand, in Konzernumgebungen und bei IT-Dienstleistern."
+keywords:
+  - "IT Mediation Dresden"
+  - "Konfliktberatung IT-Organisationen Sachsen"
+  - "systemische Beratung IT Dresden"
+  - "Teamkonflikte IT lösen"
+  - "Mediation IT-Mittelstand Sachsen"
+  - "Konfliktklärung Dev Ops"
+  - "Mediation IT-Dienstleister Privatwirtschaft"
 layout: "zielgruppe"
+weight: 20
 date: 2025-06-21
-lastmod: 2026-03-12
+lastmod: 2026-05-06
 ---
 
-### Technik ist klar – Zusammenarbeit oft nicht
+## Technik ist klar – Zusammenarbeit oft nicht
 
 In IT-nahen Organisationen entstehen Konflikte selten durch Software – sondern durch Kommunikation, Verantwortlichkeiten und überlappende Prozesse.
 
@@ -17,15 +25,18 @@ Wenn Dev und Ops sich gegenseitig ausbremsen, Service Levels diskutiert aber nic
 
 Ich kenne die Sprache von ITIL-Prozessen, agilen Projekten und Schnittstellenrollen. Und ich weiß: Technische Klarheit allein löst keine menschlichen Spannungen.
 
+> **Sie kommen aus einem kommunalen IT-Dienstleister oder einer öffentlichen Verwaltung?**
+> Dann finden Sie auf der Seite [Mediation für kommunale IT-Dienstleister in Sachsen](/zielgruppen/kommunale-it-dienstleister) eine passendere Adressierung – mit Fokus auf OZG-Projekte, Fachverfahren-Rollouts und die Spezifik öffentlich-rechtlicher Strukturen.
+
 ---
 
 ### Typische Mitglieder dieser Zielgruppe
 
-- IT-Dienstleister in der öffentlichen Verwaltung oder privatwirtschaftlichen Organisationen in Sachsen
-- IT-Abteilungen in Behörden und Projektteams in agilen oder hybriden Umgebungen
+- IT-Dienstleister, IT-Beratungen und Software-Häuser in der Privatwirtschaft Sachsens
+- IT-Abteilungen und IT-Bereiche im Mittelstand und in Konzernumgebungen
 - Schnittstellenrollen zwischen Betrieb, Entwicklung und Fachbereichen
 - Führungskräfte und Prozessverantwortliche in ITIL-, DevOps- oder Servicekontexten
-- Teams in technischen Organisationen, die unter Veränderungsdruck stehen
+- Projektteams in agilen oder hybriden Umgebungen unter Veränderungsdruck
 
 ---
 
@@ -41,12 +52,12 @@ Diese Spannungen sind in IT-Organisationen besonders häufig – weil technische
 
 ---
 
-### Mein Ansatz: Mediation im IT-Umfeld Dresden
+### Mein Ansatz: Mediation im IT-Umfeld
 
 Ich arbeite an der Schnittstelle zwischen Prozessstruktur und Beziehungsklärung. Das bedeutet konkret:
 
 - Ich spreche Ihre fachliche Sprache – ohne die menschliche Ebene aus dem Blick zu verlieren
-- Ich moderiere Eskalationen neutral – ohne Partei für eine Seite zu nehmen
+- Ich moderiere Eskalationen allparteilich – ohne Partei für eine Seite zu nehmen
 - Ich helfe dabei, Vereinbarungen zu erarbeiten, die im Alltag tragen – nicht nur im Workshop
 
 IT-Mediation in Dresden und Sachsen ist mein Feld: ich begleite sowohl einzelne Teams als auch Schnittstellenprozesse zwischen Bereichen, Abteilungen oder Projekten.
@@ -59,7 +70,7 @@ Mit fundierter ITIL- und Projekterfahrung sowie systemischer Gesprächsführung 
 
 - Tragfähige Vereinbarungen zwischen Entwicklung, Betrieb und Fachseite
 - Klärung von Rollen, Erwartungen und Kommunikationsverläufen
-- Neutrale Moderation bei Eskalationen oder eingefahrenen Spannungen
+- Allparteiliche Moderation bei Eskalationen oder eingefahrenen Spannungen
 - Begleitung technischer Veränderung unter Berücksichtigung der sozialen Dynamik
 - Strukturierte Reflexion und bessere Zusammenarbeit auf Prozessebene
 
@@ -67,10 +78,9 @@ Mit fundierter ITIL- und Projekterfahrung sowie systemischer Gesprächsführung 
 
 ### Passende Angebote für diese Zielgruppe
 
-- [**Mediation im IT-Umfeld**](/services/mediation-it-umfeld)
-- [**Konfliktmoderation bei Veränderung & Reibung**](/services/konfliktmoderation-veraenderung)
-- [**Systemische Prozessberatung & Teamstrukturklärung**](/services/prozessberatung-organisation)
-
+- [**Mediation im IT-Umfeld**](/services/mediation-it-umfeld/)   
+- [**Mediation für Konflikte in Organisationen Sachsens**](/services/mediation-verwaltung-sachsen/)   
+- [**Konfliktberatung für komplexe Lagen**](/services/konfliktberatung-verwaltung-sachsen/)   
 ---
 
 ### Nächster Schritt
@@ -78,7 +88,7 @@ Mit fundierter ITIL- und Projekterfahrung sowie systemischer Gesprächsführung 
 Gute technische Systeme brauchen tragfähige Kommunikation.
 Ich biete Ihnen ein kostenfreies Gespräch zur Einschätzung Ihrer Situation – ohne Fahrplan, ohne Verkaufsdruck.
 
-**{{< extlink "https://calendly.com/sweti-mediator" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
+**{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
 
 Oder [Infopaket herunterladen](/material/infopaket.pdf)
 

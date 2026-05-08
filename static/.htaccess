@@ -8,3 +8,36 @@ RewriteRule ^(.*)$ https://beltschew.de/$1 [R=301,L]
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP_HOST} !^www\. [NC]
 RewriteRule ^(.*)$ https://beltschew.de/$1 [R=301,L]
+
+Redirect 301 /zielgruppen/privatpersonen/ https://mediator.sweti.de/zielgruppen/privatpersonen/
+
+Redirect 301 /zielgruppen/it/ /zielgruppen/it-unternehmen/
+Redirect 301 /zielgruppen/it /zielgruppen/it-unternehmen/
+
+Redirect 301 /zielgruppen/fuehrung_verwaltung/ /zielgruppen/fuehrung-verwaltung/
+Redirect 301 /zielgruppen/fuehrung_verwaltung /zielgruppen/fuehrung-verwaltung/
+
+# === Service-Konsolidierung Phase B (Mai 2026) ===
+# Mit und ohne Trailing-Slash, da STRATO-Apache beide Varianten serviert
+
+# 1. coaching-fuer-fuehrung → konflikt-coaching-verwaltung-sachsen
+Redirect 301 /services/coaching-fuer-fuehrung/ /services/konflikt-coaching-verwaltung-sachsen/
+Redirect 301 /services/coaching-fuer-fuehrung /services/konflikt-coaching-verwaltung-sachsen/
+
+# 2. einzelcoaching-uebergaenge → mediator.sweti.de (B2C)
+Redirect 301 /services/einzelcoaching-uebergaenge/ https://mediator.sweti.de/
+Redirect 301 /services/einzelcoaching-uebergaenge https://mediator.sweti.de/
+
+# 3. klaerungsgespraeche → mediation-verwaltung-sachsen
+Redirect 301 /services/klaerungsgespraeche/ /services/mediation-verwaltung-sachsen/
+Redirect 301 /services/klaerungsgespraeche /services/mediation-verwaltung-sachsen/
+
+# 4. konfliktmoderation-veraenderung → mediation-verwaltung-sachsen
+Redirect 301 /services/konfliktmoderation-veraenderung/ /services/mediation-verwaltung-sachsen/
+Redirect 301 /services/konfliktmoderation-veraenderung /services/mediation-verwaltung-sachsen/
+
+# 5. prozessberatung-organisation → konfliktberatung-verwaltung-sachsen
+Redirect 301 /services/prozessberatung-organisation/ /services/konfliktberatung-verwaltung-sachsen/
+Redirect 301 /services/prozessberatung-organisation /services/konfliktberatung-verwaltung-sachsen/
+# === Ende Service-Konsolidierung ===
+

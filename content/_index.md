@@ -1,9 +1,9 @@
 ---
 title: 'Systemische Prozessberatung & Konfliktklärung für Organisationen in Dresden'
 meta_title: 'Dr. Swetoslaw Beltschew – Systemischer Berater, Coach & Mediator in Dresden'
-description: "Klarheit, Struktur und Resonanz in Veränderungssituationen – für Führungskräfte, Teams, Privatpersonen und Organisationen."
+description: "Klarheit, Struktur und Resonanz in Veränderungssituationen – für Führungskräfte und Teams in Organisationen, Verwaltungen und IT-Dienstleistern"
 intro_image: "images/beratung-startseite.png"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_absolute_offset: "auto auto -100px -80px"
 intro_image_hide_on_mobile: true
 ---

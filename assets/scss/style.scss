@@ -1,0 +1,178 @@
+// Any variables that need to use Hugo configuration need to be declared here
+// Colors
+$primary: {{ .Site.Params.colors.primary | default "#f24088" }};
+$black: {{ .Site.Params.colors.black | default "#2f2f41" }};
+$white: {{ .Site.Params.colors.white | default "#ffffff" }};
+$white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
+$grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
+
+// Fonts
+$font-family-base: {{ .Site.Params.fonts.base }}, Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: {{ .Site.Params.fonts.heading }}, serif, -apple-system;
+
+
+// Variables - Override Bootstrap variables and set your own here
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/bootstrap-reboot';
+@import 'bootstrap/bootstrap-grid';
+@import 'bootstrap/bootstrap-utilities';
+// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+
+// Libraries
+@import 'libraries/hamburgers/hamburgers';
+
+// Components
+@import 'components/type';
+@import 'components/page';
+@import 'components/header';
+@import 'components/footer';
+@import 'components/sub-footer';
+@import 'components/logo';
+@import 'components/main-menu';
+@import 'components/main-menu-mobile';
+@import 'components/hamburger';
+@import 'components/buttons';
+@import 'components/call';
+@import 'components/title';
+@import 'components/content';
+@import 'components/intro';
+@import 'components/intro-image';
+@import 'components/strip';
+@import 'components/feature';
+@import 'components/social';
+
+// Pages
+@import 'pages/home';
+@import 'pages/team/team-summary';
+@import 'pages/services/page-services-single';
+
+body {
+  font-size: 16px;
+  line-height: 1.2;
+  font-family: $font-family-base;
+  @include media-breakpoint-up(md) {
+    font-size: 16px;
+    line-height: 1.3;
+  }
+}
+
+
+/* === Custom Intro Layout: Homepage only === */
+
+/* max-width entfernen */
+.page-home .intro-flow {
+  /* max-width: 1200px; */
+}
+.page-home .intro-image-flow {
+  float: right;
+  max-width: 38%;
+  height: auto;
+  margin: 0 0 2rem 1.5rem;
+}
+
+.page-home .intro-flow::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+@media (max-width: 767px) {
+  .page-home .intro-image-flow {
+    float: none;
+    max-width: 100%;
+    margin: 0 0 2rem 0;
+  }
+}
+
+/* === Homepage Intro: Textbreite & Lesbarkeit korrigieren === */
+
+.page-home .intro-flow > h1,
+.page-home .intro-flow > h2,
+.page-home .intro-flow > h3,
+.page-home .intro-flow > p,
+.page-home .intro-flow > ul,
+.page-home .intro-flow > ol {
+  width: auto;
+  max-width: none;
+}
+
+.page-home .intro-flow > p {
+  line-height: 1.7;
+}
+
+.page-home .intro-flow > ul,
+.page-home .intro-flow > ol {
+  padding-left: 1.25rem;
+  margin-left: 0;
+  line-height: 1.6;
+}
+
+.page-home .intro-flow > ul li,
+.page-home .intro-flow > ol li {
+  margin-left: 0;
+}
+
+/* === Intro Flow Layout: Homepage + Services === */
+
+.page-home .intro-image-flow,
+.page-services-list .intro-image-flow {
+  float: right;
+  max-width: 38%;
+  height: auto;
+  margin: 0 0 2rem 3rem;
+}
+
+.page-home .intro-flow::after,
+.page-services-list .intro-flow::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.page-home .intro-flow > h1,
+.page-home .intro-flow > h2,
+.page-home .intro-flow > h3,
+.page-home .intro-flow > p,
+.page-home .intro-flow > ul,
+.page-home .intro-flow > ol,
+.page-services-list .intro-flow > h1,
+.page-services-list .intro-flow > h2,
+.page-services-list .intro-flow > h3,
+.page-services-list .intro-flow > p,
+.page-services-list .intro-flow > ul,
+.page-services-list .intro-flow > ol {
+  width: auto;
+  max-width: none;
+}
+
+.page-home .intro-flow > p,
+.page-services-list .intro-flow > p {
+  line-height: 1.7;
+}
+
+.page-home .intro-flow > ul,
+.page-home .intro-flow > ol,
+.page-services-list .intro-flow > ul,
+.page-services-list .intro-flow > ol {
+  padding-left: 1.25rem;
+  margin-left: 0;
+  line-height: 1.6;
+}
+
+.page-home .intro-flow > ul li,
+.page-home .intro-flow > ol li,
+.page-services-list .intro-flow > ul li,
+.page-services-list .intro-flow > ol li {
+  margin-left: 0;
+}
+
+@media (max-width: 767px) {
+  .page-home .intro-image-flow,
+  .page-services-list .intro-image-flow {
+    float: none;
+    max-width: 100%;
+    margin: 0 0 2rem 0;
+  }
+}

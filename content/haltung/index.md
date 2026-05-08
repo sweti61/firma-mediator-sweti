@@ -17,13 +17,7 @@ keywords:
   - Veränderungsbegleitung
   - öffentliche Verwaltung
   - IT-Organisationen
-tags:
-  - Haltung
-  - Systemische Arbeitsweise
-  - Coaching
-  - Mediation
-categories:
-  - Profil
+
 ---
 
 {{< figure src="image.png" class="mein-bild" >}}
@@ -154,7 +148,7 @@ Wenn Sie unsicher sind, ob Ihr Anliegen passt: Ein kurzes Erstgespräch klärt d
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
 Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
 
-👉 [**Terminbuchung auf Calendly**](https://calendly.com/sweti-mediator)   
+👉 [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
 📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 
 ---

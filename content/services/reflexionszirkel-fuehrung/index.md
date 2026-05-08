@@ -7,29 +7,21 @@ summary: "Der Reflexionszirkel Führung ist ein regelmäßig stattfindender, ver
 
 slug: "reflexionszirkel-fuehrung"
 date: 2026-01-22
+lastmod: 2026-05-06
 
 tags:
-  - Führung
-  - Öffentlicher Dienst
-  - Reflexion
-  - Systemische Beratung
-  - Entscheidungsfindung
-keywords:
-  - Reflexionszirkel Führung
-  - Führungskräfte öffentliche Verwaltung
-  - Entscheidungsreflexion
-  - Reflexionsraum Führung
-  - systemische Führung
-  - vertrauliche Führungsformate
-categories:
-  - Formate
-  - Angebote
+  - "Führung"
+  - "Öffentlicher Dienst"
+  - "Reflexion"
+  - "Systemische Beratung"
+  - "Entscheidungsfindung"
+
 ---
 
 Ein strukturierter Reflexionsraum für Führungskräfte im öffentlichen Dienst
 
 ## Ausgangslage
-Führungskräfte in der öffentlichen Verwaltung treffen Entscheidungen unter komplexen und oft widersprüchlichen Erwartungen.  
+Führungskräfte in der öffentlichen Verwaltung treffen Entscheidungen unter komplexen und oft widersprüchlichen Erwartungen.
 Was im Arbeitsalltag meist fehlt, ist ein geschützter Raum, um die **Wirkung dieser Entscheidungen auf die eigene Rolle und Verantwortung** zu reflektieren.
 
 Der Reflexionszirkel Führung setzt genau an dieser Stelle an.
@@ -37,14 +29,14 @@ Der Reflexionszirkel Führung setzt genau an dieser Stelle an.
 ---
 
 ## Kernidee
-Der Reflexionszirkel ist ein regelmäßig stattfindender, **vertraulicher Reflexionsraum** für Führungskräfte.  
+Der Reflexionszirkel ist ein regelmäßig stattfindender, **vertraulicher Reflexionsraum** für Führungskräfte.
 Im Mittelpunkt stehen **nicht Entscheidungen selbst**, sondern der **Reflexionsraum davor und danach**.
 
 Reflektiert werden unter anderem:
-- die eigene Rolle im System  
-- Ambivalenzen und wiederkehrende Muster  
-- Spannungen zwischen Auftrag, Erwartungen und Verantwortung  
-- Fragen der Selbstführung im Führungsalltag  
+- die eigene Rolle im System
+- Ambivalenzen und wiederkehrende Muster
+- Spannungen zwischen Auftrag, Erwartungen und Verantwortung
+- Fragen der Selbstführung im Führungsalltag
 
 Der Zirkel arbeitet jenseits von fachlicher Problemlösung, Bewertung oder organisationaler Steuerung.
 
@@ -53,10 +45,10 @@ Der Zirkel arbeitet jenseits von fachlicher Problemlösung, Bewertung oder organ
 ## Arbeitsweise
 Der Reflexionszirkel arbeitet **ruhig, strukturiert, kollegial und systemisch**.
 
-- Externe Moderation sichert den **Prozess**, nicht die Inhalte  
-- Keine Lösungen, keine Empfehlungen, keine Entscheidungen  
-- Kollegiale Resonanz statt Expertenurteil  
-- Fokus auf Wahrnehmung, Wirkung und Verantwortung  
+- Externe Moderation sichert den **Prozess**, nicht die Inhalte
+- Keine Lösungen, keine Empfehlungen, keine Entscheidungen
+- Kollegiale Resonanz statt Expertenurteil
+- Fokus auf Wahrnehmung, Wirkung und Verantwortung
 
 Der Rahmen ist bewusst klar gehalten, um Orientierung zu ermöglichen.
 
@@ -66,10 +58,10 @@ Der Rahmen ist bewusst klar gehalten, um Orientierung zu ermöglichen.
 Teilnehmende gewinnen **Orientierung**, nicht Antworten.
 
 Typisch sind:
-- klarere Einordnung der eigenen Rolle  
-- Entlastung durch kollegiale Perspektiven  
-- bewussterer Umgang mit Entscheidungsdruck  
-- höhere Ambivalenztoleranz in komplexen Situationen  
+- klarere Einordnung der eigenen Rolle
+- Entlastung durch kollegiale Perspektiven
+- bewussterer Umgang mit Entscheidungsdruck
+- höhere Ambivalenztoleranz in komplexen Situationen
 
 ---
 
@@ -77,74 +69,74 @@ Typisch sind:
 Die Organisation profitiert **indirekt**, ohne Einblick in Inhalte oder personenbezogene Themen.
 
 Beobachtbar sind unter anderem:
-- stabilere Selbstführung von Führungskräften  
-- klarere Verantwortungsgrenzen  
-- Entlastung angrenzender Unterstützungsstellen  
+- stabilere Selbstführung von Führungskräften
+- klarere Verantwortungsgrenzen
+- Entlastung angrenzender Unterstützungsstellen
 
-**Wichtig:**  
+**Wichtig:**
 Es gibt **keine Protokolle**, **keine Berichte** und **keine Rückmeldungen** an die Organisation – auch nicht anonymisiert.
 
 ---
 
 ## Rahmen
-- **Gruppe:** 4–6 Führungskräfte  
-- **Dauer:** 2–2,5 Stunden  
-- **Rhythmus:** ca. alle 6 Wochen  
-- **Format:** Präsenz oder Video  
-- **Teilnahme:** freiwillig, ohne Weisungsbeziehungen  
+- **Gruppe:** 4–6 Führungskräfte
+- **Dauer:** 2–2,5 Stunden
+- **Rhythmus:** ca. alle 6 Wochen
+- **Format:** Präsenz oder Video
+- **Teilnahme:** freiwillig, ohne Weisungsbeziehungen
 
 ---
 
 ## Klare Abgrenzung
 Der Reflexionszirkel Führung ist **keine**:
-- Fachberatung  
-- Coachingmaßnahme  
-- Therapie  
-- Supervision  
-- Trainings- oder Entwicklungsmaßnahme  
+- Fachberatung
+- Coachingmaßnahme
+- Therapie
+- Supervision
+- Trainings- oder Entwicklungsmaßnahme
 
 Nicht bearbeitet werden:
-- biografische Themen  
-- konkrete Mitarbeiterfälle  
-- Konflikte zwischen Teilnehmenden  
-- operative oder fachliche Fragestellungen  
+- biografische Themen
+- konkrete Mitarbeiterfälle
+- Konflikte zwischen Teilnehmenden
+- operative oder fachliche Fragestellungen
 
 ---
 
 ## Wirkungsprinzip
-Die Wirkung des Formats entsteht nicht durch Interventionen,  
+Die Wirkung des Formats entsteht nicht durch Interventionen,
 sondern durch den **Rahmen selbst**.
 
-**Merksatz:**  
+**Merksatz:**
 *Die Organisation stellt den Rahmen – Orientierung entsteht durch die Selbstreflexion der Führungskräfte.*
 
 ---
 
-## Weiterführende Formate
+## Einordnung im Angebotsgefüge
 
-Für individuelle Vertiefung von Führungsfragen kann ein [Coaching für Führung & Verantwortung]({{<relref "/services/coaching-fuer-fuehrung/">}}) ergänzend sinnvoll sein.
+Der Reflexionszirkel Führung ist ein eigenständiges Gruppenformat. Er ergänzt – ersetzt aber nicht – die individuelle Begleitung von Führungskräften:
 
-Wenn Führungsfragen mit strukturellen Themen oder Teamkonstellationen verbunden sind, kann eine [systemische Prozessberatung & Teamstrukturklärung]({{<relref "/services/prozessberatung-organisation/">}}) anschließen.
+- Für individuelle Vertiefung von Führungs- und Konfliktfragen kann ein [Konflikt-Coaching](/services/konflikt-coaching-verwaltung-sachsen/) anschlussfähig sein.
+- Wenn Führungsfragen mit komplexen, strukturellen Konfliktlagen in der Organisation verbunden sind, kann eine [Konfliktberatung](/services/konfliktberatung-verwaltung-sachsen/) anschließen.
+- Für strukturierte Rollenklärung im Arbeitskontext eignet sich das Format [Mensch · Rolle · Erwartungen (MRE)](/services/mensch-rolle-erwartungen-mre/).
 
 ---
 
 ## Nächster Schritt
 
-Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:  
-Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenloser Erstgespräch.
+Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:
+Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenfreies Orientierungsgespräch.
 
-👉 Sie können ein Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/zwischen-entscheidung-und-verantwortung/) herunterladen   
+👉 Sie können einen Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/zwischen-entscheidung-und-verantwortung/) herunterladen
 
-
-👉 [**Terminbuchung auf Calendly**](https://calendly.com/sweti-mediator)   
+👉 [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
 📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 
 ---
 ## Interne Links
 
-- [**Profil & Hintergrund**]({{<relref "/about">}})   
-- [**Arbeitsweise**]({{<relref "/arbeitsweise">}})   
-- [**Haltung**]({{<relref "/haltung">}})   
-- [**Angebote & Formate**]({{<relref "/services">}})   
-- [**Kontakt**]({{<relref "/contact">}})   
-
+- [**Profil & Hintergrund**]({{<relref "/about">}})
+- [**Arbeitsweise**]({{<relref "/arbeitsweise">}})
+- [**Haltung**]({{<relref "/haltung">}})
+- [**Angebote & Formate**]({{<relref "/services">}})
+- [**Kontakt**]({{<relref "/contact">}})

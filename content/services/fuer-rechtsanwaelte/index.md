@@ -12,24 +12,13 @@ keywords:
   - "Mediation mit anwaltlicher Begleitung"
   - "interprofessionelle Zusammenarbeit Anwalt und Mediator"
   - "außergerichtliche Konfliktlösung für Kanzleien"
-tags:
-  - Mediation
-  - Rechtsanwälte
-  - Kanzleikooperation
-  - Nachbarschaftsrecht
-  - Familienrecht
-  - Arbeitsrecht
-categories:
-  - Formate
-  - Angebote
 
 slug: "fuer-rechtsanwaelte"
-url: "/services/fuer-rechtsanwaelte/"
 date: 2026-01-31
+lastmod: 2026-05-06
 author: "Swetoslaw Beltschew"
 draft: false
-weight: 7
-
+weight: 50
 ---
 
 **Sie behalten die rechtliche Beratung – ich übernehme die Mediation.**
@@ -39,8 +28,6 @@ Als externer Mediator kooperiere ich mit Rechtsanwältinnen und Rechtsanwälten 
 Mediation ist kein Gegenentwurf zum Recht und keine Konkurrenz zur anwaltlichen Beratung. Sie schafft Verständigung dort, wo rechtliche Klärung allein die Konfliktdynamik nicht auflöst und fortbestehende Beziehungen weiter belastet würden. Zugleich benenne ich klare Grenzen: Mediation kommt nicht in Betracht, wenn Schutz, Freiwilligkeit oder Rollenklarheit nicht gewährleistet sind.
 
 Wenn Sie prüfen möchten, ob und in welchen Mandaten Mediation Ihre Arbeit sinnvoll ergänzt, können Sie ein unverbindliches, vertrauliches Kooperationsgespräch mit mir vereinbaren.
-
-
 
 ---
 
@@ -66,23 +53,19 @@ In laufenden Arbeitsverhältnissen stehen rechtliche, organisatorische und zwisc
 
 Mediation im Arbeitsrecht kann hier einen geschützten Klärungsraum eröffnen, sofern Freiwilligkeit gegeben ist und keine disziplinarische oder sanktionsgeprägte Logik dominiert. Ziel ist die Wiederherstellung von Arbeitsfähigkeit sowie Klarheit in Rollen und Erwartungen, nicht die Klärung von Schuldfragen.
 
-
 ---
-
 
 ## Rollen und Verantwortlichkeiten in der Zusammenarbeit
 
 Eine klare Rollentrennung ist Grundlage jeder Zusammenarbeit zwischen Ihrer Kanzlei und mir als externem Mediator.
 
-Ich arbeite als allparteilicher Mediator und verantworte ausschließlich den strukturierten Kommunikations‑ und Klärungsprozess – nicht die rechtliche Bewertung oder Durchsetzung der Ergebnisse. Rechtsberatung, rechtliche Einschätzungen sowie Vertrags‑ und Vergleichsgestaltung gehören ausdrücklich nicht zu meinem Auftrag und verbleiben vollständig in Ihrer Verantwortung als mandatierten Rechtsanwältinnen und Rechtsanwälten.
+Ich arbeite als allparteilicher Mediator und verantworte ausschließlich den strukturierten Kommunikations- und Klärungsprozess – nicht die rechtliche Bewertung oder Durchsetzung der Ergebnisse. Rechtsberatung, rechtliche Einschätzungen sowie Vertrags- und Vergleichsgestaltung gehören ausdrücklich nicht zu meinem Auftrag und verbleiben vollständig in Ihrer Verantwortung als mandatierten Rechtsanwältinnen und Rechtsanwälten.
 
 Sie begleiten Ihre Mandantinnen und Mandanten weiterhin parteilich, klären die rechtlichen Rahmenbedingungen und prüfen die in der Mediation entwickelten Verständigungen im Hinblick auf ihre rechtliche Tragfähigkeit und Umsetzbarkeit. Die Ergebnisse der Mediation dokumentiere ich in einer schriftlichen Verständigung ohne Rechtsbindungswirkung, die Ihnen als inhaltliche Grundlage für rechtssichere Vereinbarungen oder weitere anwaltliche beziehungsweise gerichtliche Schritte dient.
 
 Diese Trennung der Rollen ist transparent, berufsrechtlich eindeutig und gegenüber Mandantinnen und Mandanten jederzeit klar kommunizierbar.
 
-
 ---
-
 
 ## Ablauf der Zusammenarbeit mit Ihrer Kanzlei
 
@@ -96,11 +79,22 @@ Der Mediationsprozess ist zeitlich begrenzt und strukturiert. Am Ende steht eine
 
 Mediation unterliegt der Vertraulichkeit. Inhalte werden nur mit ausdrücklicher Zustimmung der Beteiligten weitergegeben. Die Dokumentation beschränkt sich auf das notwendige Maß.
 
-Ich arbeite überwiegend in Dresden und Sachsen sowie in geeigneten Online-Formaten. Die Zusammenarbeit ist bewusst als B2B‑Angebot für Rechtsanwältinnen und Rechtsanwälte angelegt: sachlich, informationsorientiert und ohne direkte Mandantenansprache.
-
-Wenn Sie dieses Kooperationsmodell für Ihre Kanzlei sondieren möchten, schreiben Sie mir für ein vertrauliches Kooperationsgespräch eine kurze Nachricht oder nutzen Sie das Kontaktformular auf dieser Seite.
+Ich arbeite überwiegend in Dresden und Sachsen sowie in geeigneten Online-Formaten. Die Zusammenarbeit ist bewusst als B2B-Angebot für Rechtsanwältinnen und Rechtsanwälte angelegt: sachlich, informationsorientiert und ohne direkte Mandantenansprache.
 
 ---
 
-👉 Weitere fachliche Einordnungen und Beispiele zur Zusammenarbeit finden Sie im Blogbereich [Mediation & Kooperation für Rechtsanwälte in Dresden](https://mediator.sweti.de/tags/fuer-rechtsanwelte/) auf meiner Website.   
-👉 Wissen rund um das Mediationsgesetz (MediationsG) finden Sie in meinen [Mediationsblog](https://mediator.sweti.de/tags/mediationsg/).
+## Methodischer Hintergrund
+
+Die Mediation, die ich in Kanzleikooperationen anbiete, folgt den Prinzipien des Mediationsgesetzes. Methodische Vertiefung und allgemeine Verfahrensgrundlagen finden Sie auf der Hauptseite [Mediation für Konflikte in Organisationen und Verwaltungen Sachsens](/services/mediation-verwaltung-sachsen/).
+
+Weitere fachliche Einordnungen und Beispiele zur Zusammenarbeit finden Sie im Blogbereich [Mediation & Kooperation für Rechtsanwälte in Dresden](https://mediator.sweti.de/tags/fuer-rechtsanwelte/) auf meiner Website.
+Wissen rund um das Mediationsgesetz (MediationsG) finden Sie in meinen [Mediationsblog](https://mediator.sweti.de/tags/mediationsg/).
+
+---
+
+## Nächster Schritt
+
+Wenn Sie dieses Kooperationsmodell für Ihre Kanzlei sondieren möchten, biete ich ein vertrauliches, unverbindliches Kooperationsgespräch an. In etwa 30 Minuten klären wir, ob und in welchen Mandatskonstellationen eine Zusammenarbeit für Ihre Kanzlei sinnvoll wäre.
+
+🗓️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt vertrauliches Kooperationsgespräch buchen{{< /extlink >}}**    
+📩 Oder kurz schreiben: [mediator@sweti.de](mailto:mediator@sweti.de)

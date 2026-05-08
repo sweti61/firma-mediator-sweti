@@ -11,7 +11,7 @@ Manche Veränderungen brauchen nur ein gutes Gespräch, um Klarheit zu gewinnen.
 
 Sie können direkt über das Formular unten Kontakt aufnehmen oder einen Termin für ein kostenloses Erstgespräch buchen:
 
-📅 **[Jetzt Termin vereinbaren](https://calendly.com/sweti-mediator "Online-Kalender")** – schnell, vertraulich, unverbindlich.
+📅 **[Jetzt Termin vereinbaren](https://calendly.com/mediator-sweti "Online-Kalender")** – schnell, vertraulich, unverbindlich.
 
 ---
 
