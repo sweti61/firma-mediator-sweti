@@ -1,54 +1,57 @@
 ---
-title: "Kontakt aufnehmen"
+title: "Kontakt"
 omit_header_text: true
-description: "Ich freue mich, von Ihnen zu hören – für ein Erstgespräch, eine Anfrage oder einfach zum Kennenlernen."
+description: "Kontaktaufnahme zu Dr. Swetoslaw Beltschew – für ein kostenfreies Orientierungsgespräch zu Mediation, Konfliktberatung oder Konflikt-Coaching in Sachsen."
 type: page
+date: 2026-05-08
+lastmod: 2026-05-08
 ---
 
-## 🤝 Kommen wir ins Gespräch
+## Kontakt aufnehmen
 
-Manche Veränderungen brauchen nur ein gutes Gespräch, um Klarheit zu gewinnen. Wenn Sie den Eindruck haben, dass meine Arbeitsweise zu Ihrer Situation passen könnte, lade ich Sie herzlich ein: Melden Sie sich – ganz unkompliziert.
+Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann, biete ich ein kostenfreies Orientierungsgespräch – vertraulich, unverbindlich, telefonisch oder online. Etwa 30 Minuten reichen, um zu prüfen, ob und in welcher Form eine Zusammenarbeit für Ihre Konfliktlage sinnvoll ist.
 
-Sie können direkt über das Formular unten Kontakt aufnehmen oder einen Termin für ein kostenloses Erstgespräch buchen:
-
-📅 **[Jetzt Termin vereinbaren](https://calendly.com/mediator-sweti "Online-Kalender")** – schnell, vertraulich, unverbindlich.
-
----
-
-## 💡 Für wen ich da bin
-
-Ich begleite:
-- Menschen in Übergangsphasen – z. B. vor dem Ruhestand, nach einer Trennung oder in familiären Umbrüchen.
-- Führungskräfte und Prozessverantwortliche, die Orientierung suchen oder Spannungen klären möchten.
-- Teams in sozialen, behördlichen oder technischen Kontexten, die sich Entlastung und Klarheit wünschen.
-- IT-Organisationen, die technische mit zwischenmenschlichen Herausforderungen verbinden wollen.
+🗓️ [**Jetzt Termin vereinbaren**](https://calendly.com/mediator-sweti) – schnell, vertraulich, unverbindlich.
 
 ---
 
-## 🌱 Wie ich arbeite
+## Drei Wege zum Gespräch
 
-Ich höre anders zu – nicht um zu antworten, sondern um zu verstehen.  
-In meiner Arbeit schaffe ich Räume, in denen neue Perspektiven entstehen dürfen – mit Klarheit, Ruhe und ohne Druck.
+- **Calendly:** Termin direkt online buchen → [calendly.com/mediator-sweti](https://calendly.com/mediator-sweti)
+- **E-Mail:** Kurze Schilderung Ihrer Lage an [mediator@sweti.de](mailto:mediator@sweti.de)
+- **Kontaktformular:** unten auf dieser Seite
 
-> *„Ich begleite, nicht bewege. Ich wirke durch Haltung, nicht durch Lösungen.“*
+Für ein Erstgespräch reicht eine knappe Beschreibung der Konfliktlage, der Beteiligten und des angestrebten Ziels.
 
 ---
 
-## 📩 Kontaktformular
+## Kontaktformular
 
 {{< form-contact action="https://formspree.io/f/xyzjbobz" >}}
 
 ---
 
-### Oder direkt:
+## Direkter Kontakt
 
-**Dr. Swetoslaw (Sweti) Beltschew**  
-Mediator Sweti  
-📍 Bünau Str. 52, 01159 Dresden  
-📧 [mediator@sweti.de](mailto:mediator@sweti.de)  
-📞 0163 803 5634 | ☎️ 0351 422 4716  
-🌐 [mediator.sweti.de](https://mediator.sweti.de)
+**Dr. Swetoslaw Beltschew**
+Mediator · Coach · systemischer Berater
+
+📍 Bünaustr. 52 · 01159 Dresden   
+📧 [mediator@sweti.de](mailto:mediator@sweti.de)   
+📞 0163 803 5634   
+🌐 [beltschew.de](https://beltschew.de)   
 
 ---
 
-> *Ihr Anliegen ist einzigartig. Ihre Lösung auch.*  
+## Hinweis für Privatpersonen
+
+Diese Website richtet sich an Verwaltungen, kommunale IT-Dienstleister und Organisationen in Sachsen. Wenn Sie als Privatperson Unterstützung suchen – etwa bei familiären Konflikten, Pflege-Situationen, Erbe oder Übergängen –, finden Sie auf [mediator.sweti.de](https://mediator.sweti.de) das passende Angebot.
+
+---
+
+## Mehr erfahren
+
+- [**Über mich**]({{<relref "/about">}})
+- [**Arbeitsweise**]({{<relref "/arbeitsweise">}})
+- [**Haltung**]({{<relref "/haltung">}})
+- [**Angebote und Formate**]({{<relref "/services">}})

@@ -1,17 +1,17 @@
 [
   {
-    "title": "Systemische Beratung",
-    "description": "Struktur und Klarheit für komplexe Prozesse – mit Fokus auf Rollen, Entscheidungen und Kommunikation.",
-    "image": "images/features/icon_beratung.png"
+    "title": "Mediation",
+    "description": "Strukturierte Konfliktklärung zwischen Beteiligten – nach Mediationsgesetz, allparteilich, in 2–3 Sitzungen mit definiertem Ergebnis.",
+    "image": "images/features/icon_mediation.png"
   },
   {
-    "title": "Coaching",
-    "description": "Individuelle Begleitung bei Übergängen, Führungsverantwortung oder innerer Klärung – mit Ruhe und Präsenz.",
+    "title": "Konflikt-Coaching",
+    "description": "Vertrauliche Einzelbegleitung für Verantwortliche in schwierigen Konfliktlagen – fortlaufend über mehrere Monate oder als kompakte Vorbereitung.",
     "image": "images/features/icon_coaching.png"
   },
   {
-    "title": "Mediation",
-    "description": "Allparteiliche Konfliktklärung – sachlich, respektvoll und lösungsorientiert für private und berufliche Spannungen.",
-    "image": "images/features/icon_mediation.png"
+    "title": "Konfliktberatung",
+    "description": "Systemische Bearbeitung komplexer Konfliktsysteme – mit Erstanalyse und mehrwöchiger Folgeberatung für strukturelle und mehrschichtige Lagen.",
+    "image": "images/features/icon_beratung.png"
   }
 ]

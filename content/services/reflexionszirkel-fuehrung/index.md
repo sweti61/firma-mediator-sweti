@@ -8,14 +8,6 @@ summary: "Der Reflexionszirkel Führung ist ein regelmäßig stattfindender, ver
 slug: "reflexionszirkel-fuehrung"
 date: 2026-01-22
 lastmod: 2026-05-06
-
-tags:
-  - "Führung"
-  - "Öffentlicher Dienst"
-  - "Reflexion"
-  - "Systemische Beratung"
-  - "Entscheidungsfindung"
-
 ---
 
 Ein strukturierter Reflexionsraum für Führungskräfte im öffentlichen Dienst

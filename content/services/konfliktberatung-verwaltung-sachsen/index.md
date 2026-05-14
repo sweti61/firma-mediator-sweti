@@ -15,6 +15,9 @@ date: 2026-05-06
 lastmod: 2026-05-06
 weight: 30
 draft: false
+featured: true
+type: services
+weight: 30
 ---
 
 ## Wenn der Konflikt mehr ist als eine Vermittlung leisten kann

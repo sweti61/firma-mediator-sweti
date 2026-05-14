@@ -10,7 +10,10 @@ theme = "hugo-serif-theme"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 
-title = "Beltschew – Systemische Prozessberatung & Konfliktklärung für Organisationen in Dresden"
+title = "Dr. Beltschew – Systemische Prozessberatung & Konfliktklärung für Organisationen in Dresden"
+
+# beide Standart-Taxonomien verbieten
+disableKinds = ["taxonomy", "term"]
 
 [sitemap]
   changefreq = "weekly"
@@ -41,7 +44,7 @@ title = "Beltschew – Systemische Prozessberatung & Konfliktklärung für Organ
   [params.homepage]
     sticky_header = true
     show_contact_box = true      # show / hide the contaxt box on the homepage
-    show_services_button = false # show / hide the "view all services" button
+    show_services_button = true # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/Sweti_Mediator_Logo_100x100.png"
@@ -58,8 +61,11 @@ title = "Beltschew – Systemische Prozessberatung & Konfliktklärung für Organ
 
   [params.colors]
     primary = "#4A9D9F"        # Hauptakzentfarbe (türkisgrün)
-    black = "#2A3C3C"          # Dunkelgrau-Petrol (Textfarbe)
+#    primary = "#9FBFE9"        
+#    black = "#2A3C3C"          # Dunkelgrau-Petrol (Textfarbe)
+    black = "#1A1A1A"          
     white = "#FFFFFF"          # Standardweiß (Hintergrund)
+#    white = "#E6E3DF"          
     white_offset = "#F5F8F7"   # Leicht grünstichiger Hintergrund (Sektionen)
     grey = "#70817E"           # Graugrün für Icons/Abgrenzungen
 
@@ -80,12 +86,12 @@ title = "Beltschew – Systemische Prozessberatung & Konfliktklärung für Organ
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Angebote"
-    url = "/services/"
+    name = "Home"
+    url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "Unsere Kunden"
+    name = "Meine Kunden"
     url = "/zielgruppen/"
     weight = 2
   

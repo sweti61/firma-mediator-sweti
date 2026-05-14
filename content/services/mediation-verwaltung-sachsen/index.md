@@ -17,6 +17,9 @@ date: 2026-05-06
 lastmod: 2026-05-06
 weight: 10
 draft: false
+featured: true
+type: services
+weight: 10
 ---
 
 ### Wenn ein Konflikt intern nicht mehr lösbar ist – aber noch klärungsfähig

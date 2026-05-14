@@ -16,6 +16,9 @@ date: 2026-05-06
 lastmod: 2026-05-06
 weight: 20
 draft: false
+featured: true
+type: services
+weight: 20
 ---
 
 ### Wenn Sie verantworten – und keinen passenden Reflexionspartner haben

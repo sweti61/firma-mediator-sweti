@@ -52,7 +52,7 @@ Solche Lagen sind in der Linienverantwortung kein Ausnahmefall, sondern struktur
 
 ### Mein Ansatz: drei Felder, eine Haltung
 
-Mit Verwaltungs-Hintergrund kenne ich die Sprache der Linienorganisation – Personalverantwortung, TVöD, Personalrats-Beteiligung, Beurteilungen, Stellenbewertungen – und weiß, wie sich Linienführung im öffentlichen Dienst anfühlt: zwischen Tagesgeschäft und Veränderungsdruck, zwischen Diskretion und Klärungsbedarf.
+Mit Verwaltungs-Hintergrund kenne ich die Sprache der Linienorganisation – Personalverantwortung, TVöD, Personalrats-Beteiligung, Beurteilungen, Stellenbewertungen – und weiß, wie sich Linienführung in der Verwaltung in Sachsen anfühlt: zwischen Tagesgeschäft und Veränderungsdruck, zwischen Diskretion und Klärungsbedarf.
 
 In meiner Arbeit kombiniere ich drei Felder, je nach Konfliktlage:
 

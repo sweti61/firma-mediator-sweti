@@ -119,3 +119,6 @@ other = "E-Mail:"
 
 [contactButtonLabel]
 other = "Kontakt"
+
+[viewAllServices]
+other = "Alle Angebote"

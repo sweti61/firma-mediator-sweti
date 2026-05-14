@@ -15,7 +15,6 @@ keywords:
 
 date: 2025-06-21
 lastmod: 2026-05-06
-featured: true
 draft: false
 weight: 15
 ---

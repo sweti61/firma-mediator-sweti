@@ -2,7 +2,7 @@
 title: "Zielgruppen im Überblick"
 slug: "zielgruppen"
 description: "Mediation, Konfliktberatung und Konflikt-Coaching für Führungskräfte, Teams und IT-Organisationen in Sachsen – mit Schwerpunkt auf kommunalen IT-Dienstleistern."
-summary: "Ich begleite Organisationen und Verantwortliche in Konfliktlagen – mit systemischer Klarheit, strukturierter Gesprächsführung und situativ passenden Formaten. Schwerpunkt: kommunale IT-Dienstleister und öffentliche Verwaltung in Sachsen."
+summary: "Ich begleite Organisationen und Verantwortliche in Konfliktlagen – mit systemischer Klarheit, strukturierter Gesprächsführung und situativ passenden Formaten. Schwerpunkt: kommunale IT-Dienstleister und kommunale Verwaltung in Sachsen."
 keywords:
   - "Mediation Organisationen Sachsen"
   - "Konfliktberatung Verwaltung"

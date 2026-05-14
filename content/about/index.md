@@ -1,84 +1,78 @@
 ---
-title: "Über mich – Dr. Swetoslaw Beltschew, Mediator & systemischer Berater in Dresden"
-description: "Dr. Swetoslaw Beltschew – zertifizierter Mediator, systemischer Berater und Business Coach in Dresden. Ausgebildet am INKOVEMA Leipzig. Über 30 Jahre Erfahrung in Organisationen, IT und Verwaltung."
-featured_image: ''
-omit_header_text: true
+title: "Über mich – Dr. Swetoslaw Beltschew, Mediator und systemischer Berater in Dresden"
+description: "Dr. Swetoslaw Beltschew – Mediator (zertifiziert nach MediationsG), Coach und systemischer Berater in Dresden. Über 30 Jahre Erfahrung in Verwaltung in Sachsen, IT-Projektmanagement und Organisationsberatung."
 type: page
-lastmod: 2026-03-12
+date: 2026-05-08
+lastmod: 2026-05-08
 ---
 
 {{< figure src="Ueber_mich4.png" title="Dr. Swetoslaw Beltschew" class="mein-bild" >}}
 
-## Über mich – Klarheit mit Haltung
+## Über mich
 
-Seit über 30 Jahren begleite ich Menschen, Teams und Organisationen im öffentlichen Dienst – mit einem Blick für Strukturen, einem Gespür für Spannungen und dem Wunsch, wieder Handlungsfähigkeit herzustellen.
+Über 30 Jahre Erfahrung in der Verwaltung in Sachsen, in IT-Projektmanagement und in der Begleitung komplexer Organisationsprozesse – diese Verbindung prägt meine Arbeit als Mediator, Konfliktberater und Konflikt-Coach.
 
-Was mich antreibt: Komplexes verstehbar machen, Konflikte achtsam klären – und dabei den Menschen nicht aus dem Blick zu verlieren.
+Ich kenne die Sprache und die Logik der Organisationen, in denen Sie arbeiten: Linien- und Projektorganisation, TVöD, Personalrats-Beteiligung, ITIL- und OZG-Strukturen, kommunale Strukturen Sachsens.
+
+Aus dieser Insider-Position arbeite ich ruhig, strukturiert und allparteilich – mit klarem Blick für die Muster, die Konflikte halten, und für die Strukturen, die Klärung möglich machen.
 
 ---
 
-## Qualifikation & Ausbildung
+## Qualifikation und Ausbildung
 
-Meine Arbeit gründet auf einer fundierten Ausbildung am **INKOVEMA Institut für Konflikt- und Verhandlungsmanagement in Leipzig** – einer der renommiertesten Ausbildungsstätten für Mediation und systemische Beratung im deutschsprachigen Raum:
+Meine Arbeit gründet auf einer fundierten Ausbildung am **INKOVEMA Institut für Konflikt- und Verhandlungsmanagement Leipzig** – einer der renommiertesten Ausbildungsstätten für Mediation und systemische Beratung im deutschsprachigen Raum:
 
-- **Mediator** (INKOVEMA Leipzig)
-- **Organisationsmediator** – Weiterbildung Organisationsmediation (INKOVEMA Leipzig)
-- **Systemischer Organisationsberater** – Ausbildung systemische Organisationsberatung (INKOVEMA Leipzig)
+- **Mediator** (zertifiziert nach MediationsG)
+- **Organisationsmediator** – Weiterbildung Organisationsmediation
+- **Systemischer Organisationsberater** – Ausbildung systemische Organisationsberatung
 - **ITIL-Experte** – fundiertes Verständnis von IT-Service-Management-Prozessen
 - **PRINCE2 Agile-Projektmanager** – Erfahrung in agilen und hybriden Projektumgebungen
 
-Diese Qualifikationen sind keine formalen Nachweise – sie prägen meine Haltung und meine Methodik in jeder Beratungs- und Mediationssituation.
+Diese Qualifikationen prägen meine Haltung und Methodik in jeder Mediation, Konfliktberatung und Konflikt-Coaching-Situation.
 
 ---
 
-## Mein Weg
+## Mein beruflicher Weg
 
-Mein beruflicher Weg hat mich durch viele Veränderungsprozesse geführt – von der IT-Projektleitung über Prozessberatung bis zur Konfliktmoderation in Organisationen in Dresden und Sachsen.
+Mein Weg führte über IT-Projektleitung, Prozessberatung und Linienverantwortung in der Verwaltung Sachsens. In dieser Zeit habe ich Reorganisationen, Digitalisierungs-Programme, Schnittstellen-Konflikte und Eskalationen aus der Innensicht erlebt.
 
-Besonders in der öffentlichen Verwaltung habe ich gelernt, wie wichtig es ist, **Struktur und Klarheit zu schaffen, ohne Menschen zu überrollen**.
-
-Diese Verbindung aus technischem Systemverständnis und menschlicher Perspektive prägt meine Arbeit als systemischer Berater und Business Coach in Dresden. Ich unterstütze Teams in IT-Projekten genauso wie Leitungskräfte in sozialen Einrichtungen oder Führungskräfte in KMU und Verwaltungen in Sachsen.
-
-Ob es um Rollenklärung, blockierte Entscheidungen, Konflikte in Organisationen oder Kommunikationsbrüche in Projektteams geht – ich arbeite ruhig, strukturiert und lösungsorientiert.
-
----
-
-## Was Menschen über die Zusammenarbeit sagen
-
-Menschen, die mit mir arbeiten, sagen: *„Du bleibst ruhig, wenn es laut wird."*
-
-Sie schätzen meine sachliche Präsenz, mein Einfühlungsvermögen ohne Umschweife und die Fähigkeit, auch in angespannten Situationen eine neue Ordnung zu ermöglichen – ohne zu dominieren.
+Vor drei Jahren habe ich diese Erfahrung mit der formalen Mediations-, Organisationsmediations- und systemischen Beratungsausbildung am INKOVEMA Leipzig verbunden. Seitdem arbeite ich als Mediator, Konfliktberater und Konflikt-Coach – mit dem methodischen Werkzeug, das Verwaltungs- und IT-Praktiker oft suchen, aber selten in einer Person finden.
 
 ---
 
 ## Mein Ansatz
 
-Mein Ansatz ist systemisch, menschlich und tragfähig. Keine standardisierten Lösungen – sondern ein methodisch fundierter Weg, der Fragen stellt, statt Antworten aufzudrängen.
+Ich arbeite systemisch: Konflikte werden nicht als Persönlichkeitsfragen verstanden, sondern als Wechselwirkungen zwischen Personen, Rollen und Strukturen.
 
-Ich arbeite mit Mediation, Coaching und Prozessberatung – angepasst an die Sprache und Dynamik der Menschen, die ich begleite.
+In der Praxis heißt das:
 
-Ich bin kein juristischer Streitschlichter. Ich bin jemand, der Komplexität aushält, Dynamiken erkennt – und Menschen dabei unterstützt, nachhaltige Lösungen zu entwickeln, die zu ihnen passen.
+- **Klare Rahmen vor Inhalten** – jede Zusammenarbeit beginnt mit der Klärung von Auftrag, Rolle und Vertraulichkeit
+- **Prozessverantwortung statt Lösungsvorgaben** – ich verantworte den Klärungsprozess; die Lösung erarbeiten die Beteiligten selbst
+- **Allparteilichkeit als Methode** – ich vertrete keine Partei und bewerte nicht
+- **Ruhiges Tempo bei komplexen Lagen** – Verlangsamung schafft Denkraum und ermöglicht Mustererkennung
 
-Meine Praxis ist in **Dresden Löbtau, Bünaustr. 52** – ich arbeite in Präsenz in Dresden und Sachsen sowie online europaweit.
+Mehr dazu in meiner [Arbeitsweise]({{<relref "/arbeitsweise">}}) und [Haltung]({{<relref "/haltung">}}).
+
+---
+
+## Praxis und Reichweite
+
+Meine Praxis ist in **Dresden Löbtau, Bünaustr. 52**. Ich arbeite vor Ort in Dresden, Leipzig, Chemnitz oder am Standort Ihrer Organisation in Sachsen sowie online über Videokonferenz.
 
 ---
 
 ## Nächster Schritt
 
-Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:
-Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenfreies Erstgespräch.
+Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann: Schreiben Sie mir kurz Ihr Anliegen oder buchen Sie ein kostenfreies Orientierungsgespräch.
 
-**[Jetzt kostenfreien Termin buchen](https://calendly.com/mediator-sweti)**
-
-**E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
-
-*Dresden und Sachsen | Online europaweit möglich*
+🗓️ [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 
 ---
 
 ## Mehr erfahren
 
-- [Arbeitsweise]({{<relref "/arbeitsweise">}})
-- [Haltung]({{<relref "/haltung">}})
-- [Angebote & Formate]({{<relref "/services">}})
-- [Kontakt]({{<relref "/contact">}})
+- [**Arbeitsweise**]({{<relref "/arbeitsweise">}})
+- [**Haltung**]({{<relref "/haltung">}})
+- [**Angebote und Formate**]({{<relref "/services">}})
+- [**Kontakt**]({{<relref "/contact">}})
