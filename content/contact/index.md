@@ -11,15 +11,13 @@ lastmod: 2026-05-08
 
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann, biete ich ein kostenfreies Orientierungsgespräch – vertraulich, unverbindlich, telefonisch oder online. Etwa 30 Minuten reichen, um zu prüfen, ob und in welcher Form eine Zusammenarbeit für Ihre Konfliktlage sinnvoll ist.
 
-🗓️ [**Jetzt Termin vereinbaren**](https://calendly.com/mediator-sweti) – schnell, vertraulich, unverbindlich.
-
 ---
 
 ## Drei Wege zum Gespräch
 
-- **Calendly:** Termin direkt online buchen → [calendly.com/mediator-sweti](https://calendly.com/mediator-sweti)
-- **E-Mail:** Kurze Schilderung Ihrer Lage an [mediator@sweti.de](mailto:mediator@sweti.de)
-- **Kontaktformular:** unten auf dieser Seite
+{{< icon name="calendar" >}} [**Calendly:** Termin direkt online buchen → }](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} [**E-Mail:** Kurze Schilderung Ihrer Lage an → ](mailto:mediator@sweti.de)     
+{{< icon name="file" >}} [**Kontaktformular:** unten auf dieser Seite → ]({{< relref "/contact/" >}})
 
 Für ein Erstgespräch reicht eine knappe Beschreibung der Konfliktlage, der Beteiligten und des angestrebten Ziels.
 
@@ -35,11 +33,11 @@ Für ein Erstgespräch reicht eine knappe Beschreibung der Konfliktlage, der Bet
 
 **Dr. Swetoslaw Beltschew**
 Mediator · Coach · systemischer Berater
-
-📍 Bünaustr. 52 · 01159 Dresden   
-📧 [mediator@sweti.de](mailto:mediator@sweti.de)   
-📞 0163 803 5634   
-🌐 [beltschew.de](https://beltschew.de)   
+ 
+{{< icon name="map-pin" >}} Bünaustr. 52 · 01159 Dresden   
+{{< icon name="mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)   
+{{< icon name="phone" >}} 0163 803 5634   
+{{< icon name="globe" >}} [beltschew.de](https://beltschew.de)   
 
 ---
 

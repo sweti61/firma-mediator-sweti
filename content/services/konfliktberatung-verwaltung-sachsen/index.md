@@ -145,6 +145,7 @@ Welches Verfahren passt, klären wir im kostenfreien Orientierungsgespräch.
 
 Konfliktberatung beginnt mit einem ruhigen Blick auf die Lage. Ich biete Ihnen ein kostenfreies Orientierungsgespräch – vertraulich, unverbindlich, telefonisch oder online. Wir klären gemeinsam, ob Konfliktberatung für Ihre Lage das passende Verfahren ist und in welchem Umfang eine Erstberatung sinnvoll wäre.
 
-**{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 
 Oder schreiben Sie mir kurz Ihr Anliegen: [mediator@sweti.de](mailto:mediator@sweti.de)

@@ -163,3 +163,17 @@ details.accordion[open] summary::before {
   font-weight: 500;
   max-width: 600px;
 }
+
+/* Icons */
+.icon {
+  display: inline-flex;
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: -0.2em;
+}
+
+.icon svg {
+  width: 100%;
+  height: 100%;
+  stroke: currentColor;
+}

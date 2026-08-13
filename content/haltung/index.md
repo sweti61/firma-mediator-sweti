@@ -20,7 +20,7 @@ keywords:
   - "kommunale IT-Dienstleister"
 ---
 
-{{< figure src="image.png" class="mein-bild" >}}
+{{< figure src="image.png" alt="meine Haltung" class="mein-bild" >}}
 
 Ich arbeite systemisch – **ruhig, klar und verbindlich**.
 Nicht als „Problemlöser", sondern als jemand, der **Klärungsräume strukturiert**, in denen Verantwortliche und Organisationen ihre eigenen Lösungen entwickeln können.

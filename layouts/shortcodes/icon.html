@@ -1,0 +1,11 @@
+{{- $name := .Get "name" -}}
+{{- $path := printf "icons/feather/%s.svg" $name -}}
+{{- $icon := resources.Get $path -}}
+
+{{- with $icon -}}
+<span class="icon" aria-hidden="true">
+  {{ .Content | safeHTML }}
+</span>
+{{- else -}}
+  {{ errorf "Icon nicht gefunden: %s" $path }}
+{{- end -}}

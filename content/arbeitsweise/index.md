@@ -15,7 +15,7 @@ keywords:
   - "kommunale IT-Dienstleister"
 ---
 
-{{< figure src="image.png" class="mein-bild" >}}
+{{< figure src="image.png" alt="meine Arbeitsweise" class="mein-bild" >}}
 
 Komplexe Konfliktlagen lassen sich selten durch schnelle Antworten klären.
 Meine Arbeitsweise schafft einen Rahmen, in dem Verständigung, Klärung und tragfähige Entscheidungen entstehen können – ruhig, strukturiert und ohne Druck.

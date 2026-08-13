@@ -25,7 +25,7 @@ Ich vermittle als Mediator mit technischem Hintergrund dort, wo Kommunikation un
 
 ---
 
-### 📌 Typische Anliegen / Auslöser
+### Typische Anliegen / Auslöser
 
 - Konflikte zwischen Fachbereich, Entwicklung und Betrieb („Dev vs. Ops")
 - Spannungen bei der Einführung oder Umsetzung von SLAs, OLAs oder Servicevereinbarungen
@@ -35,7 +35,7 @@ Ich vermittle als Mediator mit technischem Hintergrund dort, wo Kommunikation un
 
 ---
 
-### 🧭 Ziel & Wirkung
+### Ziel & Wirkung
 
 Ich unterstütze die Beteiligten dabei, ihre Sichtweisen verständlich zu machen und gegenseitige Anforderungen nachvollziehbar zu formulieren.
 Es geht nicht darum, wer Recht hat – sondern darum, wie Zusammenarbeit wieder tragfähig wird.
@@ -43,7 +43,7 @@ Durch strukturierte Mediation entstehen neue Gesprächsverbindungen, geklärte R
 
 ---
 
-### 🛠️ Formate & Arbeitsweise
+### Formate & Arbeitsweise
 
 - **Format:** Mediation mit 2 bis 5 Beteiligten oder als moderierter Bereichsprozess
 - **Ort:** online oder vor Ort in der Organisation
@@ -63,7 +63,7 @@ Fachartikel, Impulse und Fallbeispiele zur Konfliktklärung, Prozessmoderation u
 
 ---
 
-### 🎯 Stil & Haltung
+### Stil & Haltung
 
 Ich spreche die Sprache von Technik und Struktur – aber auch die der Menschen, die damit arbeiten.
 Meine Haltung ist allparteilich, mein Blick systemisch, mein Vorgehen strukturiert.
@@ -83,5 +83,5 @@ Bei strukturellen, mehrwöchigen Konfliktlagen kann eine [Konfliktberatung](/ser
 
 ### Nächster Schritt
 
-🗓️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**    
-📩 Oder kurz schreiben: [mediator@sweti.de](mailto:mediator@sweti.de)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   

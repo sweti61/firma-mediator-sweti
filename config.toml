@@ -10,7 +10,8 @@ theme = "hugo-serif-theme"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 
-title = "Dr. Beltschew – Systemische Prozessberatung & Konfliktklärung für Organisationen in Dresden"
+# automatisch angehängte Branding-Teil - nicht zu lang wählen
+title = "Dr. Beltschew"
 
 # beide Standart-Taxonomien verbieten
 disableKinds = ["taxonomy", "term"]

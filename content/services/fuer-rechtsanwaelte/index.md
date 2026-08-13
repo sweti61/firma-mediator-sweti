@@ -96,5 +96,5 @@ Wissen rund um das Mediationsgesetz (MediationsG) finden Sie in meinen [Mediatio
 
 Wenn Sie dieses Kooperationsmodell für Ihre Kanzlei sondieren möchten, biete ich ein vertrauliches, unverbindliches Kooperationsgespräch an. In etwa 30 Minuten klären wir, ob und in welchen Mandatskonstellationen eine Zusammenarbeit für Ihre Kanzlei sinnvoll wäre.
 
-🗓️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt vertrauliches Kooperationsgespräch buchen{{< /extlink >}}**    
-📩 Oder kurz schreiben: [mediator@sweti.de](mailto:mediator@sweti.de)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   

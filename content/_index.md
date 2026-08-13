@@ -45,8 +45,8 @@ Neben den drei Hauptfeldern arbeite ich mit drei eigenständigen Formaten für s
 
 Mediation, Konfliktberatung oder Konflikt-Coaching beginnen mit einem Gespräch. Ich biete ein kostenfreies Orientierungsgespräch – vertraulich, unverbindlich, telefonisch oder online.
 
-🗓️ [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
-📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 
 ---
 

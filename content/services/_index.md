@@ -102,5 +102,5 @@ Im kostenfreien Orientierungsgespräch klären wir gemeinsam, welches Format fü
 
 ## Nächster Schritt
 
-🗓️ [**Jetzt kostenfreies Orientierungsgespräch buchen**](https://calendly.com/mediator-sweti)    
-📩 Oder kurz schreiben: [mediator@sweti.de](mailto:mediator@sweti.de)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   

@@ -214,10 +214,10 @@ Wenn aus einer organisationalen Klärung konkrete Spannungen oder Konflikte zwis
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:
 Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenfreies Orientierungsgespräch.
 
-👉 Sie können einen Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/klaerungsraum-orientierung/) herunterladen
+ → Sie können einen Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/klaerungsraum-orientierung/) herunterladen
 
-👉 [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)
-📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 
 ---
 ## Interne Links

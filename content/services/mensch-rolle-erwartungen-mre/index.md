@@ -137,10 +137,10 @@ sondern durch **Struktur, Klarheit und bewusste Unterscheidung**.
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann:
 Schreiben Sie mir kurz Ihr Anliegen – oder buchen Sie ein kostenfreies Orientierungsgespräch.
 
-👉 Sie können einen Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/rollenklaerung-mre/) herunterladen
+ → Sie können einen Orientierungsrahmen kostenlos [hier](https://mediator.sweti.de/leadmagnets/rollenklaerung-mre/) herunterladen
 
-👉 [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)
-📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 
 ---
 ## Interne Links

@@ -1,6 +1,8 @@
 +++
 title = 'Impressum'
 date = 2025-04-29T17:25:08+02:00
+noindex = true
+
 +++
 ## Impressum
 

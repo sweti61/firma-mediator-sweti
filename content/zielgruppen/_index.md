@@ -28,5 +28,5 @@ Ich arbeite mit Organisationen und Verantwortlichen, die sich in Konfliktlagen o
 
 Meine Begleitung setzt dort an, wo Komplexität, Spannungen oder Unklarheit den nächsten Schritt erschweren.
 
-🗓️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt Termin buchen{{< /extlink >}}**   
-📄 Oder [Infopaket als PDF ansehen](/material/infopaket.pdf)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   

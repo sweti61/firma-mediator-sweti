@@ -1,6 +1,7 @@
 +++
 title = 'Datenschutzerklärung'
 date = 2025-04-29T17:25:23+02:00
+noindex = true
 
 +++
 ### 1. Allgemeine Hinweise

@@ -82,4 +82,5 @@ Ob präventiv oder in akuter Spannung:
 Ein kurzes, kostenloses Erstgespräch hilft Ihnen, das Thema einzuordnen – und den nächsten Schritt zu klären.
 
 **Buchen Sie jetzt Ihren kostenfreien Gesprächstermin:**  
-[Zur Terminbuchung geht's hier](https://calendly.com/mediator-sweti)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   

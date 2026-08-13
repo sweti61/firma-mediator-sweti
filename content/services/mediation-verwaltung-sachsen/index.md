@@ -132,6 +132,7 @@ Welches Verfahren passt, klären wir im kostenfreien Orientierungsgespräch.
 
 Mediation beginnt nicht mit einem Vertrag, sondern mit einem Gespräch. Ich biete Ihnen ein kostenfreies Orientierungsgespräch – vertraulich, unverbindlich, telefonisch oder online. Wir klären gemeinsam, ob Mediation für Ihre Konfliktlage das passende Verfahren ist.
 
-**{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 
 Oder schreiben Sie mir kurz Ihr Anliegen: [mediator@sweti.de](mailto:mediator@sweti.de)

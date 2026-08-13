@@ -6,7 +6,7 @@ date: 2026-05-08
 lastmod: 2026-05-08
 ---
 
-{{< figure src="Ueber_mich4.png" title="Dr. Swetoslaw Beltschew" class="mein-bild" >}}
+{{< figure src="Ueber_mich4.png" title="Dr. Swetoslaw Beltschew" alt="Dr. Beltschew" class="mein-bild" >}}
 
 ## Über mich
 
@@ -65,8 +65,8 @@ Meine Praxis ist in **Dresden Löbtau, Bünaustr. 52**. Ich arbeite vor Ort in D
 
 Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann: Schreiben Sie mir kurz Ihr Anliegen oder buchen Sie ein kostenfreies Orientierungsgespräch.
 
-🗓️ [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
-📩 **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 
 ---
 

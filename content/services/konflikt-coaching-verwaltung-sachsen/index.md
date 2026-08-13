@@ -139,6 +139,7 @@ Welches Verfahren passt, klären wir im kostenfreien Vorgespräch.
 
 Konflikt-Coaching beginnt mit einer Klärung. Ich biete Ihnen ein kostenfreies Orientierungsgespräch – vertraulich, unverbindlich, telefonisch oder online. Wir klären gemeinsam, ob Konflikt-Coaching für Ihre Lage das passende Format ist, und in welchem Rhythmus es sinnvoll wäre.
 
-**{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
+{{< icon name="calendar" >}} [**Terminbuchung auf Calendly**](https://calendly.com/mediator-sweti)   
+{{< icon name="mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 
 Oder schreiben Sie mir kurz Ihr Anliegen: [mediator@sweti.de](mailto:mediator@sweti.de)
