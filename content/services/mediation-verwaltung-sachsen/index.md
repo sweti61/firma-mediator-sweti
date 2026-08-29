@@ -14,7 +14,8 @@ keywords:
   - "Konfliktklärung allparteilich"
 
 date: 2026-05-06
-lastmod: 2026-05-06
+lastmod: 2026-08-27
+
 weight: 10
 draft: false
 featured: true

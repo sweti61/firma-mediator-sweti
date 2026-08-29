@@ -11,8 +11,10 @@ keywords:
   - "Konfliktberatung kommunale IT-Dienstleister"
   - "Konfliktberatung Reorganisation"
   - "strukturelle Konfliktbearbeitung"
+
 date: 2026-05-06
-lastmod: 2026-05-06
+lastmod: 2026-08-27
+
 weight: 30
 draft: false
 featured: true

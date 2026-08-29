@@ -6,8 +6,9 @@ description: "Strukturierter, vertraulicher Reflexionsraum für Führungskräfte
 summary: "Der Reflexionszirkel Führung ist ein regelmäßig stattfindender, vertraulicher Reflexionsraum. Im Mittelpunkt steht die Reflexion vor und nach Entscheidungen – jenseits von Problemlösung, Bewertung oder Steuerung."
 
 slug: "reflexionszirkel-fuehrung"
+
 date: 2026-01-22
-lastmod: 2026-05-06
+lastmod: 2026-08-27
 ---
 
 Ein strukturierter Reflexionsraum für Führungskräfte im öffentlichen Dienst

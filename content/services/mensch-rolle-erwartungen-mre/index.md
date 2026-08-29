@@ -6,8 +6,9 @@ summary: "Das MRE-Format ist ein strukturierter Reflexionsrahmen zur Rollenklär
 description: "Strukturierte Rollenklärung im Arbeitskontext: Das MRE-Format schafft Orientierung durch die Unterscheidung von Mensch, Rolle und Erwartungen – ohne Bewertung oder Entscheidung."
 
 slug: "mensch-rolle-erwartungen-mre"
+
 date: 2026-01-23
-lastmod: 2026-05-06
+lastmod: 2026-08-27
 
 keywords:
   - "Rollenklärung"

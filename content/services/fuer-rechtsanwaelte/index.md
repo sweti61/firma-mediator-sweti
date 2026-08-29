@@ -15,7 +15,7 @@ keywords:
 
 slug: "fuer-rechtsanwaelte"
 date: 2026-01-31
-lastmod: 2026-05-06
+lastmod: 2026-08-27
 author: "Swetoslaw Beltschew"
 draft: false
 weight: 50

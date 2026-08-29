@@ -14,7 +14,8 @@ keywords:
   - "Agile Zusammenarbeit"
 
 date: 2025-06-21
-lastmod: 2026-05-06
+lastmod: 2026-08-27
+
 draft: false
 weight: 15
 ---

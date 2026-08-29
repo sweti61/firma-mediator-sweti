@@ -16,7 +16,7 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 
 date: 2025-06-21
-lastmod: 2026-05-06
+lastmod: 2026-08-27
 ---
 
 # Drei Felder, eine Haltung

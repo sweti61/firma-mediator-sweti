@@ -13,7 +13,7 @@ keywords:
   - "Konflikt-Coaching kommunale IT-Dienstleister"
 
 date: 2026-05-06
-lastmod: 2026-05-06
+lastmod: 2026-08-27
 weight: 20
 draft: false
 featured: true

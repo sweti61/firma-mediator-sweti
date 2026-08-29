@@ -14,7 +14,7 @@ lastmod: 2026-05-08
 
 Konflikte in Organisationen entstehen selten durch eine einzelne Ursache. Manche sind akut und lassen sich vermitteln. Andere sind strukturell und brauchen einen analytischen Blick. Manche betreffen einzelne Verantwortliche, die einen externen Reflexionspartner suchen.
 
-Ich arbeite in **drei Verfahren** – methodisch eigenständig, in der Haltung verbunden: systemisch, sachlich, mit Verwaltungs- und IT-Projektmanagement-Hintergrund.
+Ich arbeite in [**drei Verfahren**](https://mediator.sweti.de) – methodisch eigenständig, in der Haltung verbunden: systemisch, sachlich, mit Verwaltungs- und IT-Projektmanagement-Hintergrund.
 
 [**Kostenfreies Orientierungsgespräch buchen** →](https://calendly.com/mediator-sweti)
 

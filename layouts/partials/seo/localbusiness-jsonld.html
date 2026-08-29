@@ -1,0 +1,29 @@
+{{- if .IsHome -}}
+
+{{- $address := dict
+  "@type" "State"
+  "name" "Sachsen"
+  "@type" "PostalAddress"
+  "streetAddress" "Bünaustraße 52"
+  "postalCode" "01159"
+  "addressLocality" "Dresden"
+  "addressRegion" "Sachsen"
+  "addressCountry" "DE"
+-}}
+
+{{- $business := dict
+  "@context" "https://schema.org"
+  "areaServed" $areaServed
+  "@type" "ProfessionalService"
+  "name" "Dr. Swetoslaw Beltschew"
+  "url" .Site.BaseURL
+  "image" ("images/screenshot-beltschew-de.png" | absURL)
+  "description" .Site.Params.description
+  "address" $address
+-}}
+
+<script type="application/ld+json">
+{{ $business | jsonify | safeJS }}
+</script>
+
+{{- end -}}
