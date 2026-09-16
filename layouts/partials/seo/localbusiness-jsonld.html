@@ -1,8 +1,6 @@
 {{- if .IsHome -}}
 
 {{- $address := dict
-  "@type" "State"
-  "name" "Sachsen"
   "@type" "PostalAddress"
   "streetAddress" "Bünaustraße 52"
   "postalCode" "01159"
@@ -13,7 +11,6 @@
 
 {{- $business := dict
   "@context" "https://schema.org"
-  "areaServed" $areaServed
   "@type" "ProfessionalService"
   "name" "Dr. Swetoslaw Beltschew"
   "url" .Site.BaseURL
