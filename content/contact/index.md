@@ -15,7 +15,7 @@ Wenn Sie klären möchten, ob und wie ich Sie unterstützen kann, biete ich ein 
 
 ## Drei Wege zum Gespräch
 
-{{< icon name="calendar" >}} [**Calendly:** Termin direkt online buchen → }](https://calendly.com/mediator-sweti)   
+{{< icon name="calendar" >}} [**Calendly:** Termin direkt online buchen → ](https://calendly.com/mediator-sweti)   
 {{< icon name="mail" >}} [**E-Mail:** Kurze Schilderung Ihrer Lage an → ](mailto:mediator@sweti.de)     
 {{< icon name="file" >}} [**Kontaktformular:** unten auf dieser Seite → ]({{< relref "/contact/" >}})
 
