@@ -36,7 +36,7 @@ Mediator · Coach · systemischer Berater
  
 {{< icon name="map-pin" >}} Bünaustr. 52 · 01159 Dresden   
 {{< icon name="mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)   
-{{< icon name="phone" >}} 0163 803 5634   
+{{< icon name="phone" >}} [0163 803 5634](tel:+491638035634)   
 {{< icon name="globe" >}} [beltschew.de](https://beltschew.de)   
 
 ---
